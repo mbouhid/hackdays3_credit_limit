@@ -8,7 +8,7 @@ Table of Content
  <a href="#about">About</a> •
  <a href="#objective">Objective</a> •
  <a href="#on-premise">On-Premise</a> •
- <a href="#techs">Technologies</a> • 
+ <a href="#technologies">Technologies</a> • 
  <a href="#solution">Solution</a> • 
  <a href="#Lesson_Learned">Lesson Learned</a> • 
  <a href="#backlog">Backlog</a> • 
@@ -50,8 +50,8 @@ O Objetivo na exploração dos dados é analisar e identificar:
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Python](https://www.python.org/)
-- [Streamlit](https://streamlit.io/)
 - [Pandas](https://pandas.pydata.org/)
+- [SKLearn](https://scikit-learn.org/)
 
 ### Solution
 
@@ -66,6 +66,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Identificar claramente as premissas para alinhamento das expectativas
 - Importante saber exatamente o que o cliente precisa.
 - Identificar as necessidades mesmo que não esteja no pedido do cliente.
+
+### Backlog
+
+- Identify new features
+- Apply others ML Algorithms
+- Find news hyperparameters
 
 
 ### References
