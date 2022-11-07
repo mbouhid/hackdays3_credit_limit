@@ -1,30 +1,29 @@
-<h1 align="center">Projeto Rossmann Sales Predict</h1>
+<h1 align="center">Credit Limit (Hackday's Project)</h1>
 
-<p align="center">Projeto Rossmann Predict utilizando dados do Kaggle e ferramentas Python, Heroku, Telegram(bot)</p>
+<p align="center">A Credit Limit Classification Business Problem.</p>
 
-Tabela de conteúdos
+Table of Content
 =================
 <p align="center">
- <a href="#sobre">Sobre</a> •
- <a href="#objetivo">Objetivo</a> •
- <a href="#premissas">Premissas</a> •
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#solução">Solução</a> • 
- <a href="#Lições_Aprendidas">Lições Aprendidas</a> • 
- <a href="#proximos_passos">Próximos Passos</a> • 
- <a href="#referências">Referências</a> • 
+ <a href="#about">About</a> •
+ <a href="#objective">Objective</a> •
+ <a href="#on-premise">On-Premise</a> •
+ <a href="#techs">Technologies</a> • 
+ <a href="#solution">Solution</a> • 
+ <a href="#Lesson_Learned">Lesson Learned</a> • 
+ <a href="#backlog">Backlog</a> • 
+ <a href="#references">References</a> • 
  <a href="#autor">Autor</a> • 
- <a href="#contribuidores">Contribuidores</a>  • 
- <a href="#licenc-a">Licença</a> • 
+ <a href="#team">Team</a>  • 
+ <a href="#license">License</a> • 
 </p>
 
-### Sobre
-O Projeto House Rocket foi um estudo realizado para identificar insights através da análise de dados. Foi utilizado um dataset, do setor imobiliário, disponibilizado na plataforma Kaggle que contém as datas da compra, preço, qtd de quartos, qtd de banheiros, tamanho do imóvel, latidute/longitude, código postal, entre outros dados. 
+### About
 
-A House Rocket é uma empresa fictícia do setor imobiliário com o objetivo de comprar imóveis com potencial de valorização, revendê-los para obter lucro nas transações.
+A Credit Limit Classification Business Problem. We need to develop a model in 2 days to predict if a bank should concede or not give a higher credit limit to its clients.
 
 
-### Objetivo
+### Objective
 O Objetivo na exploração dos dados é analisar e identificar:
  1. Imóveis que estejam abaixo da mediana da região de localização
  2. Imóveis com boas condições e vista para a água
@@ -37,7 +36,7 @@ O Objetivo na exploração dos dados é analisar e identificar:
     - H5: Imóveis com 3 banheiros tem um crescimento MoM (Month over Month) de 15%
 
 
-### Premissas
+### On-Premise
 
 - Na limpeza dos dados:
    - Retirados os ID´s duplicados
@@ -46,7 +45,7 @@ O Objetivo na exploração dos dados é analisar e identificar:
 - O crescimento anual foi calculado com o valor médio dos imóveis por ano, pois a base de dados só possuia o período de 13 meses.
 
 
-### Tecnologias
+### Technologies
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -54,12 +53,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Streamlit](https://streamlit.io/)
 - [Pandas](https://pandas.pydata.org/)
 
-### Solução
+### Solution
 
 - [HC_App_final_Streamlit.pdf](https://github.com/mbouhid/project_house_rocket/blob/main/hc_app_final_Streamlit.pdf)
 - [HC_App_final_Streamlit_Menu.pdf](https://github.com/mbouhid/project_house_rocket/blob/main/hc_app_final_Streamlit_Menu.pdf)
 
-### Lições Aprendidas
+### Lesson Learned
 
 - A base de dados tem que estar limpa
 - As afirmações devem ser bem claras para que a solução da análise confirme ou não as hipóteses
@@ -69,7 +68,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Identificar as necessidades mesmo que não esteja no pedido do cliente.
 
 
-### Referências
+### References
 
 [Kaggle](https://www.kaggle.com/)
 
@@ -87,12 +86,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 [![Linkedin Badge](https://img.shields.io/badge/-MarcioBouhid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marciobouhid/)](https://www.linkedin.com/in/marciobouhid/) 
 
 
-### Contribuidores
+### Team
 
 O projeto não teve contribuidores oficiais. A Comunidade Data Science foi consultada em determinados momentos.
 
 
-### Licença
+### License
 
 GNU General Public License v3.0
 
