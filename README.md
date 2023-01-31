@@ -14,9 +14,9 @@ Table of Content
  <a href="#tools">Tools</a> • 
  <a href="#solução">Solução</a> • 
  <a href="#utilizacao">Como instalar</a> • 
- <a href="#Lições_Aprendidas">Lições Aprendidas</a> • 
- <a href="#proximos_passos">Próximos Passos</a> • 
- <a href="#referências">Referências</a> • 
+ <a href="#lessons-learned">Lessons Learned</a> • 
+ <a href="#next-steps">Next Steps</a> • 
+ <a href="#referencias">Referências</a> • 
  <a href="#autor">Autor</a> • 
  <a href="#contribuidores">Contribuidores</a>  • 
  <a href="#licenc-a">Licença</a> • 
@@ -26,25 +26,20 @@ Table of Content
 
 O Billion Bank é um banco digital brasileiro, fundado em 2021. Trabalha hoje com contas digitais, e cartões de crédito. 
 
-## The Problem
+# The Problem
 
 Quando um cliente solicita aumento de limite no cartão de crédito, o banco consulta uma empresa de crédito terceira, que retorna uma recomendação: "negar" ou "conceder". Essa resposta é repassada ao cliente. Dado que a empresa de crédito precisa levantar maiores informações de histórico financeiro do cliente com terceiros, o retorno da recomendação ao banco leva até 5 dias úteis!
 
 Tratando-se de um serviço, a cada solicitação de aumento de limite feita por um cliente, o banco tem um custo adicional de consulta. Visando reduzir este custo, em 2022, o banco passou a só aceitar novos pedidos de aumento de limite a cada 3 meses. O banco viu um aumento leve do churn no primeiro semestre, que se acentuou mais no segundo, chegando a um ponto já preocupante. O time de CS fez contato com antigos clientes, e constatou que o principal motivo do churn foi a percepção de burocracia relacionada ao aumento nos limites.
 
-## Solving
+# Goals
 
-Para reverter o cenário, o banco traçou um plano de ação com dois objetivos:
 1 - Desburocratizar o processo, permitindo que o cliente possa solicitar um novo limite uma vez por semana, tendo uma resposta instantânea.
 2 - Desativar as consultas de recomendação de aumento de limites feitas hoje com a empresa terceira, que são demoradas e custosas.
+3 - O modelo deverá avaliar a solicitaçaõ de aumento de limite de cartão de crédito.
+4 - O modelo irá informar se o banco deverá conceder ou não o aumento do limite de crédito solicitado pelo cliente.
 
-
-## Goals
-O Objetivo do modelo será:
-
-1. Avaliação de aumento de limite de cartão de crédito
-2. Informar se o banco deverá conceder ou não o aumento do limite de crédito solicitado pelo cliente.
-
+# Planning
 
 ## Assumptions
 
@@ -54,7 +49,7 @@ O Objetivo do modelo será:
 - Imóveis em bom estado foram considerados como condition igual 3 ou 4
 - O crescimento anual foi calculado com o valor médio dos imóveis por ano, pois a base de dados só possuia o período de 13 meses.
 
-# Planning
+
 ## Tools
 
 As seguintes ferramentas foram usadas na construção do projeto:
