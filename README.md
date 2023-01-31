@@ -8,6 +8,7 @@ Table of Content
 =================
 <p align="center">
  <a href="#about">About</a> •
+ <a href="#the-problem">The Problem</a> •
  <a href="#goals">Goals</a> •
  <a href="#assumptions">Assumptions</a> •
  <a href="#tools">Tools</a> • 
@@ -21,25 +22,28 @@ Table of Content
  <a href="#licenc-a">Licença</a> • 
 </p>
 
-## About 
+# About 
 
-Texto explicativo do projeto com contexto do negócio, dados sobre o negócio/setor, imagens, origem dos dados, referências, e tudo que for necessário para passar o conhecimento necessário. 
+O Billion Bank é um banco digital brasileiro, fundado em 2021. Trabalha hoje com contas digitais, e cartões de crédito. 
 
+## The Problem
 
+Quando um cliente solicita aumento de limite no cartão de crédito, o banco consulta uma empresa de crédito terceira, que retorna uma recomendação: "negar" ou "conceder". Essa resposta é repassada ao cliente. Dado que a empresa de crédito precisa levantar maiores informações de histórico financeiro do cliente com terceiros, o retorno da recomendação ao banco leva até 5 dias úteis!
+
+Tratando-se de um serviço, a cada solicitação de aumento de limite feita por um cliente, o banco tem um custo adicional de consulta. Visando reduzir este custo, em 2022, o banco passou a só aceitar novos pedidos de aumento de limite a cada 3 meses. O banco viu um aumento leve do churn no primeiro semestre, que se acentuou mais no segundo, chegando a um ponto já preocupante. O time de CS fez contato com antigos clientes, e constatou que o principal motivo do churn foi a percepção de burocracia relacionada ao aumento nos limites.
+
+## Solving
+
+Para reverter o cenário, o banco traçou um plano de ação com dois objetivos:
+1 - Desburocratizar o processo, permitindo que o cliente possa solicitar um novo limite uma vez por semana, tendo uma resposta instantânea.
+2 - Desativar as consultas de recomendação de aumento de limites feitas hoje com a empresa terceira, que são demoradas e custosas.
 
 
 ## Goals
-O Objetivo na exploração dos dados é analisar e identificar:
+O Objetivo do modelo será:
 
- 1. Imóveis que estejam abaixo da mediana da região de localização
- 2. Imóveis com boas condições e vista para a água
- 3. Identificar a sazonalidade da data da compra (summer or winter)
- 4. Analisar e confirmar as hipóteses:
-    - H1: Imóveis que possuem vista para água, são 30% mais caros, na média.
-    - H2: Imóveis com data de construção menor que 1955, são 50% mais baratos, na média.
-    - H3: Imóveis sem porão possuem área total 50% maiores do que com porão.
-    - H4: O crescimento do preço dos imóveis YoY (Year over Year) é de 10%
-    - H5: Imóveis com 3 banheiros tem um crescimento MoM (Month over Month) de 15%
+1. Avaliação de aumento de limite de cartão de crédito
+2. Informar se o banco deverá conceder ou não o aumento do limite de crédito solicitado pelo cliente.
 
 
 ## Assumptions
