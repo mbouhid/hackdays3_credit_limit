@@ -6,7 +6,7 @@
 
 
 <!DOCTYPE html>
-<html lang="en" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark" data-a11y-animated-images="system">
+<html lang="en" data-color-mode="auto" data-light-theme="dark_tritanopia" data-dark-theme="dark" data-a11y-animated-images="system">
   <head>
     <meta charset="utf-8">
   <link rel="dns-prefetch" href="https://github.githubassets.com">
@@ -18,67 +18,67 @@
 
 
 
-  <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/light-719f1193e0c0.css" /><link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/dark-0c343b529849.css" /><link data-color-theme="dark_dimmed" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed-f22da508b62a.css" /><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-188ef1de59e6.css" /><link data-color-theme="dark_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-bc6bf4eea850.css" /><link data-color-theme="light_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-527658dec362.css" /><link data-color-theme="light_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_high_contrast-c7a7fe0cd8ec.css" /><link data-color-theme="light_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_tritanopia-6aa855bdae0f.css" /><link data-color-theme="dark_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_tritanopia-6aa5e25aacc0.css" />
+  <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/dark_tritanopia-6aa5e25aacc0.css" /><link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/dark-0c343b529849.css" /><link data-color-theme="light" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light-719f1193e0c0.css" /><link data-color-theme="dark_dimmed" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed-f22da508b62a.css" /><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-188ef1de59e6.css" /><link data-color-theme="dark_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-bc6bf4eea850.css" /><link data-color-theme="light_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-527658dec362.css" /><link data-color-theme="light_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_high_contrast-c7a7fe0cd8ec.css" /><link data-color-theme="light_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_tritanopia-6aa855bdae0f.css" />
   
-    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-6d48655e42c1.css" />
-    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-22d7b87371b6.css" />
-    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/github-632a8182386b.css" />
-  <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/code-c8bd6bf979af.css" />
+  
+    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-3e0c23f0f191.css" />
+    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-c309e0470d2c.css" />
+    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/github-2bd0741c348f.css" />
+  <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/code-85d351263652.css" />
 
     <meta name="optimizely-datafile" content="{&quot;groups&quot;: [], &quot;environmentKey&quot;: &quot;production&quot;, &quot;rollouts&quot;: [], &quot;typedAudiences&quot;: [], &quot;projectId&quot;: &quot;16737760170&quot;, &quot;variables&quot;: [], &quot;featureFlags&quot;: [], &quot;experiments&quot;: [], &quot;version&quot;: &quot;4&quot;, &quot;audiences&quot;: [{&quot;conditions&quot;: &quot;[\&quot;or\&quot;, {\&quot;match\&quot;: \&quot;exact\&quot;, \&quot;name\&quot;: \&quot;$opt_dummy_attribute\&quot;, \&quot;type\&quot;: \&quot;custom_attribute\&quot;, \&quot;value\&quot;: \&quot;$opt_dummy_value\&quot;}]&quot;, &quot;id&quot;: &quot;$opt_dummy_audience&quot;, &quot;name&quot;: &quot;Optimizely-Generated Audience for Backwards Compatibility&quot;}], &quot;anonymizeIP&quot;: true, &quot;sdkKey&quot;: &quot;WTc6awnGuYDdG98CYRban&quot;, &quot;attributes&quot;: [{&quot;id&quot;: &quot;16822470375&quot;, &quot;key&quot;: &quot;user_id&quot;}, {&quot;id&quot;: &quot;17143601254&quot;, &quot;key&quot;: &quot;spammy&quot;}, {&quot;id&quot;: &quot;18175660309&quot;, &quot;key&quot;: &quot;organization_plan&quot;}, {&quot;id&quot;: &quot;18813001570&quot;, &quot;key&quot;: &quot;is_logged_in&quot;}, {&quot;id&quot;: &quot;19073851829&quot;, &quot;key&quot;: &quot;geo&quot;}, {&quot;id&quot;: &quot;20175462351&quot;, &quot;key&quot;: &quot;requestedCurrency&quot;}, {&quot;id&quot;: &quot;20785470195&quot;, &quot;key&quot;: &quot;country_code&quot;}, {&quot;id&quot;: &quot;21656311196&quot;, &quot;key&quot;: &quot;opened_downgrade_dialog&quot;}], &quot;botFiltering&quot;: false, &quot;accountId&quot;: &quot;16737760170&quot;, &quot;events&quot;: [{&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;17911811441&quot;, &quot;key&quot;: &quot;hydro_click.dashboard.teacher_toolbox_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18124116703&quot;, &quot;key&quot;: &quot;submit.organizations.complete_sign_up&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18145892387&quot;, &quot;key&quot;: &quot;no_metric.tracked_outside_of_optimizely&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18178755568&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.add_repo&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18180553241&quot;, &quot;key&quot;: &quot;submit.repository_imports.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18186103728&quot;, &quot;key&quot;: &quot;click.help.learn_more_about_repository_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18188530140&quot;, &quot;key&quot;: &quot;test_event&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18191963644&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.transfer_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18195612788&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.import_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18210945499&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.invite_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18211063248&quot;, &quot;key&quot;: &quot;click.empty_org_repo_cta.create_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18215721889&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.update_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18224360785&quot;, &quot;key&quot;: &quot;click.org_onboarding_checklist.dismiss&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18234832286&quot;, &quot;key&quot;: &quot;submit.organization_activation.complete&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18252392383&quot;, &quot;key&quot;: &quot;submit.org_repository.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18257551537&quot;, &quot;key&quot;: &quot;submit.org_member_invitation.create&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18259522260&quot;, &quot;key&quot;: &quot;submit.organization_profile.update&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18564603625&quot;, &quot;key&quot;: &quot;view.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18568612016&quot;, &quot;key&quot;: &quot;click.classroom_sign_in_click&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18572592540&quot;, &quot;key&quot;: &quot;view.classroom_name&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18574203855&quot;, &quot;key&quot;: &quot;click.classroom_create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18582053415&quot;, &quot;key&quot;: &quot;click.classroom_select_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18589463420&quot;, &quot;key&quot;: &quot;click.classroom_create_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591323364&quot;, &quot;key&quot;: &quot;click.classroom_create_first_classroom&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18591652321&quot;, &quot;key&quot;: &quot;click.classroom_grant_access&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18607131425&quot;, &quot;key&quot;: &quot;view.classroom_creation&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;18831680583&quot;, &quot;key&quot;: &quot;upgrade_account_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19064064515&quot;, &quot;key&quot;: &quot;click.signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19075373687&quot;, &quot;key&quot;: &quot;click.view_account_billing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19077355841&quot;, &quot;key&quot;: &quot;click.dismiss_signup_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19079713938&quot;, &quot;key&quot;: &quot;click.contact_sales&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19120963070&quot;, &quot;key&quot;: &quot;click.compare_account_plans&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19151690317&quot;, &quot;key&quot;: &quot;click.upgrade_account_cta&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19424193129&quot;, &quot;key&quot;: &quot;click.open_account_switcher&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19520330825&quot;, &quot;key&quot;: &quot;click.visit_account_profile&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19540970635&quot;, &quot;key&quot;: &quot;click.switch_account_context&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19730198868&quot;, &quot;key&quot;: &quot;submit.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19820830627&quot;, &quot;key&quot;: &quot;click.homepage_signup&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;19988571001&quot;, &quot;key&quot;: &quot;click.create_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20036538294&quot;, &quot;key&quot;: &quot;click.create_organization_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20040653299&quot;, &quot;key&quot;: &quot;click.input_enterprise_trial_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20062030003&quot;, &quot;key&quot;: &quot;click.continue_with_team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20068947153&quot;, &quot;key&quot;: &quot;click.create_organization_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20086636658&quot;, &quot;key&quot;: &quot;click.signup_continue.username&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20091648988&quot;, &quot;key&quot;: &quot;click.signup_continue.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20103637615&quot;, &quot;key&quot;: &quot;click.signup_continue.email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20111574253&quot;, &quot;key&quot;: &quot;click.signup_continue.password&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20120044111&quot;, &quot;key&quot;: &quot;view.pricing_page&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20152062109&quot;, &quot;key&quot;: &quot;submit.create_account&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20165800992&quot;, &quot;key&quot;: &quot;submit.upgrade_payment_form&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20171520319&quot;, &quot;key&quot;: &quot;submit.create_organization&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20222645674&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.discuss_your_needs&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20227443657&quot;, &quot;key&quot;: &quot;submit.verify_primary_user_email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20234607160&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.try_enterprise&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20238175784&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.team&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20239847212&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.continue_free&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20251097193&quot;, &quot;key&quot;: &quot;recommended_plan&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20438619534&quot;, &quot;key&quot;: &quot;click.pricing_calculator.1_member&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20456699683&quot;, &quot;key&quot;: &quot;click.pricing_calculator.15_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20467868331&quot;, &quot;key&quot;: &quot;click.pricing_calculator.10_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20476267432&quot;, &quot;key&quot;: &quot;click.trial_days_remaining&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20476357660&quot;, &quot;key&quot;: &quot;click.discover_feature&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20479287901&quot;, &quot;key&quot;: &quot;click.pricing_calculator.custom_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20481107083&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.apply_teacher_benefits&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20483089392&quot;, &quot;key&quot;: &quot;click.pricing_calculator.5_members&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20484283944&quot;, &quot;key&quot;: &quot;click.onboarding_task&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20484996281&quot;, &quot;key&quot;: &quot;click.recommended_plan_in_signup.apply_student_benefits&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20486713726&quot;, &quot;key&quot;: &quot;click.onboarding_task_breadcrumb&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20490791319&quot;, &quot;key&quot;: &quot;click.upgrade_to_enterprise&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20491786766&quot;, &quot;key&quot;: &quot;click.talk_to_us&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20494144087&quot;, &quot;key&quot;: &quot;click.dismiss_enterprise_trial&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20499722759&quot;, &quot;key&quot;: &quot;completed_all_tasks&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20500710104&quot;, &quot;key&quot;: &quot;completed_onboarding_tasks&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20513160672&quot;, &quot;key&quot;: &quot;click.read_doc&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20516196762&quot;, &quot;key&quot;: &quot;actions_enabled&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20518980986&quot;, &quot;key&quot;: &quot;click.dismiss_trial_banner&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20535446721&quot;, &quot;key&quot;: &quot;click.issue_actions_prompt.dismiss_prompt&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20557002247&quot;, &quot;key&quot;: &quot;click.issue_actions_prompt.setup_workflow&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20595070227&quot;, &quot;key&quot;: &quot;click.pull_request_setup_workflow&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20626600314&quot;, &quot;key&quot;: &quot;click.seats_input&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20642310305&quot;, &quot;key&quot;: &quot;click.decrease_seats_number&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20662990045&quot;, &quot;key&quot;: &quot;click.increase_seats_number&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20679620969&quot;, &quot;key&quot;: &quot;click.public_product_roadmap&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20761240940&quot;, &quot;key&quot;: &quot;click.dismiss_survey_banner&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20767210721&quot;, &quot;key&quot;: &quot;click.take_survey&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20795281201&quot;, &quot;key&quot;: &quot;click.archive_list&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20966790249&quot;, &quot;key&quot;: &quot;contact_sales.submit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20996500333&quot;, &quot;key&quot;: &quot;contact_sales.existing_customer&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;20996890162&quot;, &quot;key&quot;: &quot;contact_sales.blank_message_field&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21000470317&quot;, &quot;key&quot;: &quot;contact_sales.personal_email&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21002790172&quot;, &quot;key&quot;: &quot;contact_sales.blank_phone_field&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21354412592&quot;, &quot;key&quot;: &quot;click.dismiss_create_readme&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21366102546&quot;, &quot;key&quot;: &quot;click.dismiss_zero_user_content&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21370252505&quot;, &quot;key&quot;: &quot;account_did_downgrade&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21370840408&quot;, &quot;key&quot;: &quot;click.cta_create_readme&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21375451068&quot;, &quot;key&quot;: &quot;click.cta_create_new_repository&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21385390948&quot;, &quot;key&quot;: &quot;click.zero_user_content&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21467712175&quot;, &quot;key&quot;: &quot;click.downgrade_keep&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21484112202&quot;, &quot;key&quot;: &quot;click.downgrade&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21495292213&quot;, &quot;key&quot;: &quot;click.downgrade_survey_exit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21508241468&quot;, &quot;key&quot;: &quot;click.downgrade_survey_submit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21512030356&quot;, &quot;key&quot;: &quot;click.downgrade_support&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21539090022&quot;, &quot;key&quot;: &quot;click.downgrade_exit&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21543640644&quot;, &quot;key&quot;: &quot;click_fetch_upstream&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21646510300&quot;, &quot;key&quot;: &quot;click.move_your_work&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21656151116&quot;, &quot;key&quot;: &quot;click.add_branch_protection_rule&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21663860599&quot;, &quot;key&quot;: &quot;click.downgrade_dialog_open&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21687860483&quot;, &quot;key&quot;: &quot;click.learn_about_protected_branches&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21689050333&quot;, &quot;key&quot;: &quot;click.dismiss_protect_this_branch&quot;}, {&quot;experimentIds&quot;: [], &quot;id&quot;: &quot;21864370109&quot;, &quot;key&quot;: &quot;click.sign_in&quot;}], &quot;revision&quot;: &quot;1367&quot;}" />
 
 
-  <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-80947ef53862.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_smoothscroll-polyfill_dist_smoothscroll_js-node_modules_stacktrace-parse-297da6-ad80ae7071ce.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/environment-dc45f4ae0ff2.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_selector-observer_dist_index_esm_js-650337916dbd.js"></script>
+  <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-683e86ceec09.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_smoothscroll-polyfill_dist_smoothscroll_js-node_modules_stacktrace-parse-297da6-aaa32681a0b3.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/environment-3424f91b6daa.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_selector-observer_dist_index_esm_js-58d8ed1c5cb7.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_details-dialog-elemen-63debe-4a2f37f7419e.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_auto-complete-element_dist_index_js-node_modules_github_catalyst_-6afc16-fa4f01d20b81.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_fzy_js_index_js-node_modules_github_markdown-toolbar-element_dist_index_js-5936f45973f5.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_github_text-ex-3415a8-daf4603c6e6b.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-45d711-bdbc250cf159.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/github-elements-5913fdeac7f7.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-d79b024967ac.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_clipboard-copy-element_dist_index_esm_js-node_modules_github_mark-f079ea-692b8e7bcdfd.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_github_text-ex-3415a8-72e8230400a2.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-b4f804-93a75d194dbb.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_view-components_app_components_primer_primer_js-node_modules_gith-6a1af4-0b90cf4b5716.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/github-elements-6e3a1be1032e.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-1fbf1b303705.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_lit-html_lit-html_js-e954e8c01c93.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_manuelpuyol_turbo_dist_turbo_es2017-esm_js-af11d99b3e65.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_alive-client_dist_index_js-156187f13fbb.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_github_remote-form_dist_-ece2b0-917c0dad4566.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_behaviors_dist_esm_dimensions_js-node_modules_github_hydro-analyt-fed224-54236d9d6de1.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_paste-mark-5d4116-663a0fd5a3e3.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_updatable-content_ts-62df1309213c.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_sticky-scroll-into-view_ts-719d6a33bb20.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_keyboard-shortcuts-helper_ts-app_assets_modules_github_be-ac2ea2-1bd9860df245.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_blob-anchor_ts-app_assets_modules_github_hydro-analytics_ts-app_ass-7216b6-6d46d7fd224b.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_commenting_edit_ts-app_assets_modules_github_behaviors_ht-83c235-02b38260d85d.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-8cf0e287e877.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-06ff533-60844731e2b9.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/notifications-global-e71e7f99b10d.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_optimizely_optimizely-sdk_dist_optimizely_browser_es_min_js-node_modules-77839b-d0404204b53b.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/optimizely-af6bea80b740.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-lib-578aaa684f88.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_primer_react_lib-esm_BaseStyles_js-node_modules_primer_react_lib-esm_Box-a264be-663ed4d291c2.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_virtualized-list_es_index_js-node_modules_github_template-parts_lib_index_js-8b135c9d75cf.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_mini-throt-31d1eb-ead65925a38e.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_manuelpuyol_turbo_dist_turbo_es2017-esm_js-ac3bd901e26b.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_github_alive-client_dist-bf5aa2-24c0cfc509a8.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_hotkey_dist_index_js-node_modules_github_hydro-analytics-client_d-047034-4198c9d47011.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_remote-form_dist_index_js-node_modules_github_template-parts_lib_-273494-9dca884d6b8e.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_paste-markdown_dist_index_esm_js-node_modules_github_quote-select-c15b39-7d4cbe4ffc8c.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_updatable-content_ts-be84ec1f2e05.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_sticky-scroll-into-view_ts-f0d967a97d48.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_socket-channel_ts-5da1f39e59d1.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_keyboard-shortcuts-helper_ts-app_assets_modules_github_be-d820ce-0682979ffa29.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_user-content_ts-app_assets_modules_github_blob-anchor_ts--b39cba-0e34333f0071.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_behaviors_commenting_edit_ts-app_assets_modules_github_behaviors_ht-83c235-9df1e61e03a4.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-9ac7bdc48fd2.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_delegated-events_dist_index_js-node_modules_github_catalyst_lib_index_js-06ff531-596c6d852b03.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/notifications-global-e6860013c1f3.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_optimizely_optimizely-sdk_dist_optimizely_browser_es_min_js-node_modules-77839b-e6c57f82d6e7.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/optimizely-564b43d06308.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_virtualized-list_es_index_js-node_modules_github_memoize_dist_esm_index_-ced8cc-ffd5e4d6ee17.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_mini-throt-a33094-133bfae4158f.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_github_mini-th-85225b-d5c5eb0b8bb2.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_react-core_register-react-app_ts-ff089d4a76e0.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_ref-selector_ts-53c879fdf3ef.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/repositories-c07b7c5828cd.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_ref-selector_ts-b6515c7907be.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/repositories-1742d6251559.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_clipboard-copy-element_dist_index_esm_js-node_modules_github_remo-8e6bec-4a54aa10cc28.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_decorators_js-node_modules_scroll-anchoring_di-e71893-bd36a94892da.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_diffs_blob-lines_ts-app_assets_modules_github_diffs_linkable-line-n-a1f491-f9d167c3c0d3.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-965d3dab7060.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_decorators_js-node_modules_scroll-anchoring_di-e71893-c446bed4261b.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_diffs_blob-lines_ts-app_assets_modules_github_diffs_linkable-line-n-dca161-e4c6be57743b.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-d42dbb713264.js"></script>
   
 
-  <title>hackdays3_credit_limit/README.md at main · mbouhid/hackdays3_credit_limit</title>
+  <title>project_house_rocket/README.md at main · mbouhid/project_house_rocket</title>
 
 
 
     
 
-  <meta name="request-id" content="CE32:B37E:5812289:5A9C422:6388578F" data-turbo-transient="true" /><meta name="html-safe-nonce" content="a289c4b3a20408a2e9fbd791169fe8bb3a2b104781851362c275d431f10936a5" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9rYXJpbm5hc2FudG9zL2hlYWx0aF9pbnN1cmFuY2VfcmFua2luZyIsInJlcXVlc3RfaWQiOiJDRTMyOkIzN0U6NTgxMjI4OTo1QTlDNDIyOjYzODg1NzhGIiwidmlzaXRvcl9pZCI6IjQzMjM0MTQyNDkwNDkzNDEyNDUiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-turbo-transient="true" /><meta name="visitor-hmac" content="e72be6f40dff984df5a7dc6bab85d5761492789e28230ed11bb1d825cb6b771c" data-turbo-transient="true" />
+  <meta name="request-id" content="E32D:BB99:19E6006:1AC82B2:63D8F3F6" data-turbo-transient="true" /><meta name="html-safe-nonce" content="a289c4b3a20408a2e9fbd791169fe8bb3a2b104781851362c275d431f10936a5" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9tYm91aGlkL3Byb2plY3RfaG91c2Vfcm9ja2V0IiwicmVxdWVzdF9pZCI6IkUzMkQ6QkI5OToxOUU2MDA2OjFBQzgyQjI6NjNEOEYzRjYiLCJ2aXNpdG9yX2lkIjoiNDMyMzQxNDI0OTA0OTM0MTI0NSIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="c736c81cee29e41472e47f2e875b45ec9593d0795e1777ea4fb263c3e03df7f3" data-turbo-transient="true" />
 
 
-    <meta name="hovercard-subject-tag" content="repository:572699116" data-turbo-transient>
+    <meta name="hovercard-subject-tag" content="repository:503379937" data-turbo-transient>
 
 
   <meta name="github-keyboard-shortcuts" content="repository,source-code,file-tree" data-turbo-transient="true" />
@@ -109,17 +109,17 @@
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="Contribute to mbouhid/hackdays3_credit_limit development by creating an account on GitHub.">
+      <meta name="description" content="Real State Data Analysis Project, Making interactive maps using Python, to suggest the best price of the houses. - project_house_rocket/README.md at main · mbouhid/project_house_rocket">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/b52125e784c153f91b11dd6840108edb1dc627ae70460e83df3f541d7fd536e4/mbouhid/hackdays3_credit_limit" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="hackdays3_credit_limit/readme.md at main · mbouhid/hackdays3_credit_limit" /><meta name="twitter:description" content="Contribute to mbouhid/hackdays3_credit_limit development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/b52125e784c153f91b11dd6840108edb1dc627ae70460e83df3f541d7fd536e4/mbouhid/hackdays3_credit_limit" /><meta property="og:image:alt" content="Contribute to mbouhid/hackdays3_credit_limit development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="hackdays3_credit_limit/readme.md at main · mbouhid/hackdays3_credit_limit" /><meta property="og:url" content="https://github.com/mbouhid/hackdays3_credit_limit" /><meta property="og:description" content="Contribute to mbouhid/hackdays3_credit_limit development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/317f2f8e23c4046a6fad7a7f6e69037ec97a124b42a3597fd0417941567ac766/mbouhid/project_house_rocket" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="project_house_rocket/README.md at main · mbouhid/project_house_rocket" /><meta name="twitter:description" content="Real State Data Analysis Project, Making interactive maps using Python, to suggest the best price of the houses. - project_house_rocket/README.md at main · mbouhid/project_house_rocket" />
+      <meta property="og:image" content="https://opengraph.githubassets.com/317f2f8e23c4046a6fad7a7f6e69037ec97a124b42a3597fd0417941567ac766/mbouhid/project_house_rocket" /><meta property="og:image:alt" content="Real State Data Analysis Project, Making interactive maps using Python, to suggest the best price of the houses. - project_house_rocket/README.md at main · mbouhid/project_house_rocket" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="project_house_rocket/README.md at main · mbouhid/project_house_rocket" /><meta property="og:url" content="https://github.com/mbouhid/project_house_rocket" /><meta property="og:description" content="Real State Data Analysis Project, Making interactive maps using Python, to suggest the best price of the houses. - project_house_rocket/README.md at main · mbouhid/project_house_rocket" />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/41192466/ws?session=eyJ2IjoiVjMiLCJ1Ijo0MTE5MjQ2NiwicyI6OTkzMDg5NDIxLCJjIjozMDY2MDQyMzgyLCJ0IjoxNjY5ODc5Nzc0fQ==--b9774de1541f312e8059c565d397c9427d1208d72e50d6b37d8d5cde5ceab563" data-refresh-url="/_alive" data-session-id="608c3907bbc49f32202408cfae4e8c2afea7ed312d065f8234b980a0bf1262e7">
-      <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b87581f5816c.js">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/41192466/ws?session=eyJ2IjoiVjMiLCJ1Ijo0MTE5MjQ2NiwicyI6OTkzMDg5NDIxLCJjIjoxMTM2NjIxNzMxLCJ0IjoxNjc1MTYyNjE1fQ==--5bd1230a3699769c5561f52364cf1c29395f137e831f7cbd04a1727db1dd8c08" data-refresh-url="/_alive" data-session-id="608c3907bbc49f32202408cfae4e8c2afea7ed312d065f8234b980a0bf1262e7">
+      <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-1fbc11759878.js">
 
 
         <meta name="hostname" content="github.com">
@@ -130,25 +130,25 @@
 
         <meta name="expected-hostname" content="github.com">
 
-    <meta name="enabled-features" content="TURBO_EXPERIMENT_RISKY,IMAGE_METRIC_TRACKING,GEOJSON_AZURE_MAPS,STRICT_DEFERRED_DIFF_LINES_CHECKS">
+    <meta name="enabled-features" content="TURBO_EXPERIMENT_RISKY,IMAGE_METRIC_TRACKING,GEOJSON_AZURE_MAPS">
 
 
-  <meta http-equiv="x-pjax-version" content="00e37a04394472f46ce11a9addcd9fe6e4d72c5d926aa4d7cd48d217e9942eca" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-version" content="301d54ad57d1a6deca1251047a4792e9b56c4e927935b685c6490186025ceaf6" data-turbo-track="reload">
   <meta http-equiv="x-pjax-csp-version" content="40aca5a152a13213a876f7628c466cd600db12fb858cdddccc3f1cc387eb7dad" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-css-version" content="4e8f390631401959fb6d1ba7ff3e35c34072a9b17ee37c483a965a5f054ba206" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-js-version" content="1fcf90fe458833894e63c4bc4bc647b5ab8be547cd627c3e4e66635f93371ee5" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-css-version" content="d31fda3087d9ccd883c86b2919d11b20d4cd6d05a5d1805de09c8fb9f2fdeec6" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="bcfc7c2e05499b14aededdb8ec8854abb1fc7b80681588957f1a9a998226019b" data-turbo-track="reload">
 
   <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
 
         <meta data-hydrostats="publish">
 
-  <meta name="go-import" content="github.com/mbouhid/hackdays3_credit_limit git https://github.com/mbouhid/hackdays3_credit_limit.git">
+  <meta name="go-import" content="github.com/mbouhid/project_house_rocket git https://github.com/mbouhid/project_house_rocket.git">
 
-  <meta name="octolytics-dimension-user_id" content="26633728" /><meta name="octolytics-dimension-user_login" content="mbouhid" /><meta name="octolytics-dimension-repository_id" content="572699116" /><meta name="octolytics-dimension-repository_nwo" content="mbouhid/hackdays3_credit_limit" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="572699116" /><meta name="octolytics-dimension-repository_network_root_nwo" content="mbouhid/hackdays3_credit_limit" />
+  <meta name="octolytics-dimension-user_id" content="41192466" /><meta name="octolytics-dimension-user_login" content="mbouhid" /><meta name="octolytics-dimension-repository_id" content="503379937" /><meta name="octolytics-dimension-repository_nwo" content="mbouhid/project_house_rocket" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="503379937" /><meta name="octolytics-dimension-repository_network_root_nwo" content="mbouhid/project_house_rocket" />
 
 
 
-    <link rel="canonical" href="https://github.com/mbouhid/hackdays3_credit_limit/blob/main/readme.md" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/mbouhid/project_house_rocket/blob/main/README.md" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -171,8 +171,8 @@
   </head>
 
   <body class="logged-in env-production page-responsive page-blob" style="word-wrap: break-word;">
-      <div data-turbo-body class="logged-in env-production page-responsive page-blob" style="word-wrap: break-word;">
-        
+    <div data-turbo-body class="logged-in env-production page-responsive page-blob" style="word-wrap: break-word;">
+      
 
 
     <div class="position-relative js-header-wrapper ">
@@ -183,10 +183,10 @@
       
 
 
-        <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_decorators_js-node_modules_github_command-pale-51fe14-9a1b633e9244.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_clipboard-copy-element_dist_index_esm_js-node_modules_delegated-e-976da2-e22766eedf00.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_command-palette_items_help-item_ts-app_assets_modules_github_comman-48ad9d-f3835bdd0910.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/command-palette-7174ee8c0061.js"></script>
+        <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_decorators_js-node_modules_github_command-pale-4090c9-fc81c2b8560e.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_clipboard-copy-element_dist_index_esm_js-node_modules_delegated-e-b37f7d-6dbeacf8e3ba.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/app_assets_modules_github_command-palette_items_help-item_ts-app_assets_modules_github_comman-48ad9d-43e69516db48.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/command-palette-cc3438c99319.js"></script>
 
             <header class="Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap" role="banner">
 
@@ -220,13 +220,13 @@
 <div class="header-search flex-auto position-relative js-site-search flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to"
 >
   <div class="position-relative">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="572699116" data-scoped-search-url="/mbouhid/hackdays3_credit_limit/search" data-owner-scoped-search-url="/users/mbouhid/search" data-unscoped-search-url="/search" data-turbo="false" action="/mbouhid/hackdays3_credit_limit/search" accept-charset="UTF-8" method="get">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-site-search-form" role="search" aria-label="Site" data-scope-type="Repository" data-scope-id="503379937" data-scoped-search-url="/mbouhid/project_house_rocket/search" data-owner-scoped-search-url="/users/mbouhid/search" data-unscoped-search-url="/search" data-turbo="false" action="/mbouhid/project_house_rocket/search" accept-charset="UTF-8" method="get">
       <label class="form-control header-search-wrapper input-sm p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
         <input type="text"
           class="form-control js-site-search-focus header-search-input jump-to-field js-jump-to-field js-site-search-field is-clearable"
           data-hotkey=s,/
           name="q"
-          data-test-selector="nav-search-input"
+          
           placeholder="Search or jump to…"
           data-unscoped-placeholder="Search or jump to…"
           data-scoped-placeholder="Search or jump to…"
@@ -241,7 +241,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="PH42Ty9LLPOZWwV8hZ4q1rbUpHmhfgWSzs9_a2fyNfhz6mSVLZvIE798WU9f7FKbvZlwOktnKs9JPuCTPtc1bg" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="gqNSD0PRoQC5UWDa_aChP1-j5dowe4Ifcgt8lGoEHLTNNwDVQQFF4J92POkn0tlyVO4xmdpirUL1-uNsMyEcIg" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -432,7 +432,7 @@
 </a>
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-hotkey="g i" data-ga-click="Header, click, Nav menu - item:issues context:user" aria-label="Issues you created" data-turbo="false" data-selected-links="/issues /issues/assigned /issues/mentioned /issues" href="/issues">Issues</a>
 
-    <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-turbo="false" data-selected-links="/codespaces /codespaces" href="/codespaces">Codespaces</a>
+      <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-turbo="false" data-selected-links="/codespaces /codespaces" href="/codespaces">Codespaces</a>
 
     <div class="d-flex position-relative">
       <a class="js-selected-navigation-item Header-link flex-auto mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:marketplace context:user" data-octo-click="marketplace_click" data-octo-dimensions="location:nav_bar" data-turbo="false" data-selected-links=" /marketplace" href="/marketplace">Marketplace</a>
@@ -440,7 +440,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;mbouhid&quot;,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/hackdays3_credit_limit/blob/main/readme.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="35f04f0cb083e0089761a1b284b379108dced459e3842387cc82d1c678fe1fb9" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;mbouhid&quot;,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/project_house_rocket/blob/main/README.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="9134326e6150dde773e50d88188725f02fa2f1b1c00e2e67f0636e69f2adb9b5" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -448,7 +448,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/41192466?s=40&amp;v=4" width="20" height="20" alt="@mbouhid" />
       mbouhid
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="8G8hvGv4Uu8WVA0T_zEPGBTitrX0uP2FAhUCYTg9R8IQ6U5a6C6IV02_j3Y2P0hgsqRCpunmsBsXlXnfR8r5Qw" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="2bkIr1eF2lq50rUGUezeY2prA6aowVX9mBQzooj2I7E5P2dJ1FMA4uI5N2OY4pkbzC33tbWfGGONlEgc9wGdMA" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -483,7 +483,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NDExOTI0NjYiLCJ0IjoxNjY5ODc5Nzc0fQ==--9a21e6114d96466d0bbb83de42a32ee9eaa03e51dc1b2249cd40d6f73c82f5fc" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NDExOTI0NjYiLCJ0IjoxNjc1MTYyNjE1fQ==--8307a62bf7b17c92ca38c842dc6e9e650f454f805359c7fe95eeb6816d112322" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -531,9 +531,9 @@
     Import repository
   </a>
 
-<a role="menuitem" class="dropdown-item" href="/codespaces/new">
-  New codespace
-</a>
+  <a role="menuitem" class="dropdown-item" href="/codespaces/new">
+    New codespace
+  </a>
 
 <a role="menuitem" class="dropdown-item" href="https://gist.github.com/" data-ga-click="Header, create new gist">
   New gist
@@ -604,6 +604,7 @@
 
 
 
+
   <template class="js-flash-template">
     
 <div class="flash flash-full   {{ className }}">
@@ -640,7 +641,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/mbouhid/hackdays3_credit_limit/blob/main/readme.md
+      return-to=/mbouhid/project_house_rocket/blob/main/README.md
       user-id="41192466"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -745,7 +746,7 @@
           <div data-target="command-palette-scope.placeholder" hidden class="color-fg-subtle">/&nbsp;&nbsp;<span class="text-semibold color-fg-default">...</span>&nbsp;&nbsp;/&nbsp;&nbsp;</div>
               <command-palette-token
                 data-text="mbouhid"
-                data-id="MDQ6VXNlcjI2NjMzNzI4"
+                data-id="MDQ6VXNlcjQxMTkyNDY2"
                 data-type="owner"
                 data-value="mbouhid"
                 data-targets="command-palette-scope.tokens"
@@ -753,14 +754,14 @@
                 style="white-space:nowrap;line-height:20px;"
                 >mbouhid<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
               <command-palette-token
-                data-text="hackdays3_credit_limit"
-                data-id="R_kgDOIiKx7A"
+                data-text="project_house_rocket"
+                data-id="R_kgDOHgD34Q"
                 data-type="repository"
-                data-value="hackdays3_credit_limit"
+                data-value="project_house_rocket"
                 data-targets="command-palette-scope.tokens"
                 class="color-fg-default text-semibold"
                 style="white-space:nowrap;line-height:20px;"
-                >health_insurance_...<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
+                >project_house_rocket<span class="color-fg-subtle text-normal">&nbsp;&nbsp;/&nbsp;&nbsp;</span></command-palette-token>
         </command-palette-scope>
         <div class="command-palette-input-group flex-1 form-control border-0 box-shadow-none" style="z-index: 0">
           <div class="command-palette-typeahead position-absolute d-flex flex-items-center Truncate">
@@ -797,12 +798,12 @@
     <button aria-keyshortcuts="Control+Backspace" data-action="click:command-palette-input#onClear keypress:command-palette-input#onClear" data-target="command-palette-input.clearButton" id="command-palette-clear-button" hidden="hidden" type="button" data-view-component="true" class="btn-octicon command-palette-input-clear-button">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
     <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"></path>
 </svg>
-</button>    <tool-tip for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
+</button>    <tool-tip id="tooltip-8298f746-a668-4314-9d19-2b8ad97ca28d" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
 </div>
       </command-palette-input>
 
       <command-palette-page-stack
-        data-default-scope-id="R_kgDOIiKx7A"
+        data-default-scope-id="R_kgDOHgD34Q"
         data-default-scope-type="Repository"
         data-action="command-palette-page-octicons-cached:command-palette-page-stack#cacheOcticons"
       >
@@ -1223,15 +1224,15 @@
 
             <command-palette-page
               data-page-title="mbouhid"
-              data-scope-id="MDQ6VXNlcjI2NjMzNzI4"
+              data-scope-id="MDQ6VXNlcjQxMTkyNDY2"
               data-scope-type="owner"
               data-targets="command-palette-page-stack.defaultPages"
               hidden
             >
             </command-palette-page>
             <command-palette-page
-              data-page-title="hackdays3_credit_limit"
-              data-scope-id="R_kgDOIiKx7A"
+              data-page-title="project_house_rocket"
+              data-scope-id="R_kgDOHgD34Q"
               data-scope-type="repository"
               data-targets="command-palette-page-stack.defaultPages"
               hidden
@@ -1243,13 +1244,13 @@
         </command-palette-page>
           <command-palette-page
             data-page-title="mbouhid"
-            data-scope-id="MDQ6VXNlcjI2NjMzNzI4"
+            data-scope-id="MDQ6VXNlcjQxMTkyNDY2"
             data-scope-type="owner"
           >
           </command-palette-page>
           <command-palette-page
-            data-page-title="hackdays3_credit_limit"
-            data-scope-id="R_kgDOIiKx7A"
+            data-page-title="project_house_rocket"
+            data-scope-id="R_kgDOHgD34Q"
             data-scope-type="repository"
           >
           </command-palette-page>
@@ -1566,7 +1567,8 @@
 
 
 
-    <div id="repository-container-header"  class="pt-3 hide-full-screen" style="background-color: var(--color-page-header-bg);" data-turbo-replace>
+  
+  <div id="repository-container-header"  class="pt-3 hide-full-screen" style="background-color: var(--color-page-header-bg);" data-turbo-replace>
 
       <div class="d-flex flex-wrap flex-justify-end mb-3  px-3 px-md-4 px-lg-5" style="gap: 1rem;">
 
@@ -1582,7 +1584,7 @@
     </span>
     <span class="mx-1 flex-self-stretch color-fg-muted">/</span>
     <strong itemprop="name" class="mr-2 flex-self-stretch">
-      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/mbouhid/hackdays3_credit_limit">hackdays3_credit_limit</a>
+      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/mbouhid/project_house_rocket">project_house_rocket</a>
     </strong>
 
     <span></span><span class="Label Label--secondary v-align-middle mr-1">Public</span>
@@ -1593,7 +1595,15 @@
 
           <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
 
-      
+      <li>
+  <div class="float-left" >
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/mbouhid/project_house_rocket/profile_pin" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" autocomplete="off" /><input type="hidden" name="authenticity_token" value="iPVSvEg6u9XXJ3xuaVLc9oEbLbamgrT98Pehr20CuQ9G7Q-HyvVmtSnP2uPlap9X8eIcwCalW2lvoVbGylKrsg" autocomplete="off" />
+        <button type="submit" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pin mr-2">
+    <path fill-rule="evenodd" d="M4.456.734a1.75 1.75 0 012.826.504l.613 1.327a3.081 3.081 0 002.084 1.707l2.454.584c1.332.317 1.8 1.972.832 2.94L11.06 10l3.72 3.72a.75.75 0 11-1.061 1.06L10 11.06l-2.204 2.205c-.968.968-2.623.5-2.94-.832l-.584-2.454a3.081 3.081 0 00-1.707-2.084l-1.327-.613a1.75 1.75 0 01-.504-2.826L4.456.734zM5.92 1.866a.25.25 0 00-.404-.072L1.794 5.516a.25.25 0 00.072.404l1.328.613A4.582 4.582 0 015.73 9.63l.584 2.454a.25.25 0 00.42.12l5.47-5.47a.25.25 0 00-.12-.42L9.63 5.73a4.581 4.581 0 01-3.098-2.537L5.92 1.866z"></path>
+</svg>Unpin
+</button></form>  </div>
+</li>
+
 
   <li>
           <notifications-list-subscription-form
@@ -1606,9 +1616,9 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:572699116,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/hackdays3_credit_limit/blob/main/readme.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="2e181498e0e15234e1a1f2924337c163b4599e00c098facd426b919263ff3216" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:503379937,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/project_house_rocket/blob/main/README.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="83ebcdd88fd63ca018600b1733b5b7d687b374802411f8bfaa596e0e94320c46" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
-              hidden
+              
               
               data-target="notifications-list-subscription-form.unwatchButtonCopy"
             >
@@ -1628,7 +1638,7 @@
               Stop ignoring
             </span>
             <span
-              
+              hidden
               
               data-target="notifications-list-subscription-form.watchButtonCopy"
             >
@@ -1638,7 +1648,7 @@
               Watch
             </span>
           </span>
-            <span id="repo-notifications-counter" data-target="notifications-list-subscription-form.socialCount" data-pjax-replace="true" data-turbo-replace="true" title="1" data-view-component="true" class="Counter">1</span>
+            <span id="repo-notifications-counter" data-target="notifications-list-subscription-form.socialCount" data-pjax-replace="true" data-turbo-replace="true" title="2" data-view-component="true" class="Counter">2</span>
           <span class="dropdown-caret"></span>
 </summary>
         <details-menu
@@ -1658,9 +1668,9 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="g_V8RwdKLt0MwIdLgx0kBGLj4P8j8MwMuCPM5dW-YsnW6zruqZ8SF13K2pSCGVxqXrE709Ff2nmJQZMVou0k3w" autocomplete="off" />
+              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="_XTF6zWT3x768E3CHprgVZNhk7xAxrAfMYbqC85tf2eoaoNCm0bj1Kv6EB0fnpg7rzNIkLJppmoA5LX7uT45cQ" autocomplete="off" />
 
-                <input type="hidden" name="repository_id" value="572699116">
+                <input type="hidden" name="repository_id" value="503379937">
 
                 <button
                   type="submit"
@@ -1668,7 +1678,7 @@
                   value="included"
                   class="SelectMenu-item flex-items-start"
                   role="menuitemradio"
-                  aria-checked="true"
+                  aria-checked="false"
                   data-targets="notifications-list-subscription-form.subscriptionButtons"
                   
                 >
@@ -1693,7 +1703,7 @@
                   value="subscribed"
                   class="SelectMenu-item flex-items-start"
                   role="menuitemradio"
-                  aria-checked="false"
+                  aria-checked="true"
                   data-targets="notifications-list-subscription-form.subscriptionButtons"
                 >
                   <span class="f5">
@@ -1786,9 +1796,9 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="sGLH--hSc46bKk39aqH5bCJ6cXBkxQ5wV-9A4RyZJz7lfIFSRodPRMogECJrpYECHiiqXJZqGAVmjR8Ra8phKA" autocomplete="off" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="rL2-dMzcdTBWIqndubIC-SCs5l78zJNIEwn4MHFQ72f5o_jdYglJ-gco9AK4tnqXHP49cg5jhT0ia6fABgOpcQ" autocomplete="off" />
 
-              <input type="hidden" name="repository_id" value="572699116">
+              <input type="hidden" name="repository_id" value="503379937">
 
               <header class="d-sm-none SelectMenu-header pb-0 border-bottom-0 px-2 px-sm-3">
                 <h1 class="f3 SelectMenu-title d-inline-flex">
@@ -1936,32 +1946,34 @@
   </li>
 
   <li>
-        <div data-view-component="true" class="BtnGroup">
-        <a icon="repo-forked" href="/mbouhid/hackdays3_credit_limit/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:572699116,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/hackdays3_credit_limit/blob/main/readme.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="2b38f10ea5c3a1cb9efa680943d9e9c9fd752d9de31b56d39985b9feb5843e59" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of mbouhid/hackdays3_credit_limit" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+        <div data-view-component="true" class="d-flex">
+        <div data-view-component="true" class="position-relative d-inline-block">
+    <button icon="repo-forked" id="fork-button" aria-disabled="true" type="button" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
-          <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter">0</span>
-</a>
-      <details group_item="true" id="my-forks-menu-572699116" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
+        <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter">0</span>
+</button>    <tool-tip id="tooltip-4cd91e76-9e56-4185-abf0-543966826396" for="fork-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Cannot fork because you own this repository and are not a member of any organizations.</tool-tip>
+</div>
+      <details group_item="true" id="my-forks-menu-503379937" data-view-component="true" class="details-reset details-overlay BtnGroup-parent d-inline-block position-relative">
               <summary aria-label="See your forks of this repository" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="M4.427 7.427l3.396 3.396a.25.25 0 00.354 0l3.396-3.396A.25.25 0 0011.396 7H4.604a.25.25 0 00-.177.427z"></path>
 </svg>
 </summary>
   <details-menu
     class="SelectMenu right-0"
-      src="/mbouhid/hackdays3_credit_limit/my_forks_menu_content?can_fork=true"
+      src="/mbouhid/project_house_rocket/my_forks_menu_content?can_fork=false"
       
       role="menu"
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-9de3f8">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-e7ccab">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-9de3f8"
+        id="filter-menu-e7ccab"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1992,7 +2004,7 @@
       This will remove {{ repoNameWithOwner }} from the {{ listsWithCount }} that it's been added to.
     </p>
     <div class="form-actions">
-      <form class="js-social-confirmation-form" data-turbo="false" action="{{ confirmUrl }}" accept-charset="UTF-8" method="post">
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-confirmation-form" data-turbo="false" action="{{ confirmUrl }}" accept-charset="UTF-8" method="post">
         <input type="hidden" name="authenticity_token" value="{{ confirmCsrfToken }}">
         <input type="hidden" name="confirm" value="true">
           <button data-close-dialog="true" type="submit" data-view-component="true" class="btn-danger btn width-full">    Unstar
@@ -2003,34 +2015,34 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/mbouhid/hackdays3_credit_limit/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="uusRAWyfsivrRlZ3oaJdyIpOys2k2ByiAh7yza2WqGd68s5YzypgWA88DojWqYmdbg64OxRE-y-JrOFdSMP-fQ" autocomplete="off" />
-          <input type="hidden" value="3oEBAPmS_jNejsBOxOPYkN-RfA42yhenv9CQbArFuRkemN5ZWicsQLr0mLGz6AzFO9EO-IZW8Co0YoP875DvAw" data-csrf="true" class="js-confirm-csrf-token" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/mbouhid/project_house_rocket/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="_tgH4ck8odIcceapFv0eBGrLW3AOTyag0dz1s005VfckIzLDpWBylq465mKN2MzDbwago41d-NCmemT2TfeygQ" autocomplete="off" />
+          <input type="hidden" value="hXASmsZdoquemBPH75pXdS4tU16MiCEom5dwUj6Cif1fiye4qgFx7yzTEwx0v4WyK-CojQ-a_1jsMeEXPkxuiw" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:572699116,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/hackdays3_credit_limit/blob/main/readme.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="4989feb4e07020f7dcef182870d2d4ceec2a0068d24df3b7d75b7ff846d61958" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (0)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:503379937,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/project_house_rocket/blob/main/README.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="a0f21c0e53ccb8cd6bf6d79c5d5f57eecccea35a8c14ce2187a67b955fb01d51" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (1)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
-</span>            <span id="repo-stars-counter-unstar" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
-</button></form>        <details id="details-user-list-572699116" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+</span>            <span id="repo-stars-counter-unstar" aria-label="1 user starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="1" data-view-component="true" class="Counter js-social-count">1</span>
+</button></form>        <details id="details-user-list-503379937" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
         <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="M4.427 7.427l3.396 3.396a.25.25 0 00.354 0l3.396-3.396A.25.25 0 0011.396 7H4.604a.25.25 0 00-.177.427z"></path>
 </svg>
 </summary>
   <details-menu
     class="SelectMenu right-0"
-      src="/mbouhid/hackdays3_credit_limit/lists"
+      src="/mbouhid/project_house_rocket/lists"
       
       role="menu"
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-9a026f">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-cfca14">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-9a026f"
+        id="filter-menu-cfca14"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2051,33 +2063,33 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/mbouhid/hackdays3_credit_limit/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="oOBzleT4KuTchn9YqvZEMv9xGaXd_z8AF_G5FzP-Xb-uolVTAaJcW_cwpEVoRfJR7-fsZHq7854X_Lj0KLZM8g" autocomplete="off" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/mbouhid/project_house_rocket/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hIU49TzJ5a6Z-5BuwFak7qjLsM-pQVZ_gFkMfUhu0LSWDR0bYXMrQUiojL1aLb7xGeasYRp0q88Nas4kNlmNGg" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:572699116,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/hackdays3_credit_limit/blob/main/readme.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="1fd1781003b6e8c26728f345065ce7923292f01d2ccef5ebb230ce10c6e8c67d" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (0)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:503379937,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/project_house_rocket/blob/main/README.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="5525edcebf9aa4a7d520a9e35081f2ca5ccb83a6275d19af34a1bbcd0357d398" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (1)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
-</span>            <span id="repo-stars-counter-star" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
-</button></form>        <details id="details-user-list-572699116" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+</span>            <span id="repo-stars-counter-star" aria-label="1 user starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="1" data-view-component="true" class="Counter js-social-count">1</span>
+</button></form>        <details id="details-user-list-503379937" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
         <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="M4.427 7.427l3.396 3.396a.25.25 0 00.354 0l3.396-3.396A.25.25 0 0011.396 7H4.604a.25.25 0 00-.177.427z"></path>
 </svg>
 </summary>
   <details-menu
     class="SelectMenu right-0"
-      src="/mbouhid/hackdays3_credit_limit/lists"
+      src="/mbouhid/project_house_rocket/lists"
       
       role="menu"
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-9a026f">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-cfca14">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-9a026f"
+        id="filter-menu-cfca14"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2113,7 +2125,7 @@
 
   <ul data-view-component="true" class="UnderlineNav-body list-style-none">
       <li data-view-component="true" class="d-inline-flex">
-  <a id="code-tab" href="/mbouhid/hackdays3_credit_limit" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /mbouhid/hackdays3_credit_limit" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
+  <a id="code-tab" href="/mbouhid/project_house_rocket" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /mbouhid/project_house_rocket" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
@@ -2125,7 +2137,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="issues-tab" href="/mbouhid/hackdays3_credit_limit/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /mbouhid/hackdays3_credit_limit/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="issues-tab" href="/mbouhid/project_house_rocket/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /mbouhid/project_house_rocket/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
@@ -2137,7 +2149,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="pull-requests-tab" href="/mbouhid/hackdays3_credit_limit/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /mbouhid/hackdays3_credit_limit/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="pull-requests-tab" href="/mbouhid/project_house_rocket/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /mbouhid/project_house_rocket/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path>
@@ -2149,7 +2161,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="actions-tab" href="/mbouhid/hackdays3_credit_limit/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /mbouhid/hackdays3_credit_limit/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="actions-tab" href="/mbouhid/project_house_rocket/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /mbouhid/project_house_rocket/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"></path>
@@ -2161,7 +2173,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="projects-tab" href="/mbouhid/hackdays3_credit_limit/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /mbouhid/hackdays3_credit_limit/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="projects-tab" href="/mbouhid/project_house_rocket/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /mbouhid/project_house_rocket/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0114.25 16H1.75A1.75 1.75 0 010 14.25V1.75zM1.5 6.5v7.75c0 .138.112.25.25.25H5v-8H1.5zM5 5H1.5V1.75a.25.25 0 01.25-.25H5V5zm1.5 1.5v8h7.75a.25.25 0 00.25-.25V6.5h-8zm8-1.5h-8V1.5h7.75a.25.25 0 01.25.25V5z"></path>
@@ -2173,24 +2185,48 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="security-tab" href="/mbouhid/hackdays3_credit_limit/security" data-tab-item="i5security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /mbouhid/hackdays3_credit_limit/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="wiki-tab" href="/mbouhid/project_house_rocket/wiki" data-tab-item="i5wiki-tab" data-selected-links="repo_wiki /mbouhid/project_house_rocket/wiki" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g w" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Wiki&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-book UnderlineNav-octicon d-none d-sm-inline">
+    <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"></path>
+</svg>
+        <span data-content="Wiki">Wiki</span>
+          <span id="wiki-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="Not available" data-view-component="true" class="Counter"></span>
+
+
+    
+</a></li>
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="security-tab" href="/mbouhid/project_house_rocket/security" data-tab-item="i6security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /mbouhid/project_house_rocket/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M7.467.133a1.75 1.75 0 011.066 0l5.25 1.68A1.75 1.75 0 0115 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.7 1.7 0 01-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 011.217-1.667l5.25-1.68zm.61 1.429a.25.25 0 00-.153 0l-5.25 1.68a.25.25 0 00-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.2.2 0 00.154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.25.25 0 00-.174-.237l-5.25-1.68zM9 10.5a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.75a.75.75 0 10-1.5 0v3a.75.75 0 001.5 0v-3z"></path>
 </svg>
         <span data-content="Security">Security</span>
-          <include-fragment src="/mbouhid/hackdays3_credit_limit/security/overall-count" accept="text/fragment+html"></include-fragment>
+          <include-fragment src="/mbouhid/project_house_rocket/security/overall-count" accept="text/fragment+html"></include-fragment>
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="insights-tab" href="/mbouhid/hackdays3_credit_limit/pulse" data-tab-item="i6insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /mbouhid/hackdays3_credit_limit/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="insights-tab" href="/mbouhid/project_house_rocket/pulse" data-tab-item="i7insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /mbouhid/project_house_rocket/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
                 <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"></path>
 </svg>
         <span data-content="Insights">Insights</span>
           <span id="insights-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="Not available" data-view-component="true" class="Counter"></span>
+
+
+    
+</a></li>
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="settings-tab" href="/mbouhid/project_house_rocket/settings" data-tab-item="i8settings-tab" data-selected-links="code_review_limits codespaces_repository_settings collaborators custom_tabs hooks integration_installations interaction_limits issue_template_editor key_links_settings notifications repo_actions_settings repo_announcements repo_branch_settings repo_keys_settings repo_pages_settings repo_rulesets repo_protected_tags_settings repo_settings reported_content repository_actions_settings_add_new_runner repository_actions_settings_general repository_actions_settings_runners repository_environments role_details secrets secrets_settings_actions secrets_settings_codespaces secrets_settings_dependabot security_analysis /mbouhid/project_house_rocket/settings" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Settings&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+                <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-gear UnderlineNav-octicon d-none d-sm-inline">
+    <path fill-rule="evenodd" d="M7.429 1.525a6.593 6.593 0 011.142 0c.036.003.108.036.137.146l.289 1.105c.147.56.55.967.997 1.189.174.086.341.183.501.29.417.278.97.423 1.53.27l1.102-.303c.11-.03.175.016.195.046.219.31.41.641.573.989.014.031.022.11-.059.19l-.815.806c-.411.406-.562.957-.53 1.456a4.588 4.588 0 010 .582c-.032.499.119 1.05.53 1.456l.815.806c.08.08.073.159.059.19a6.494 6.494 0 01-.573.99c-.02.029-.086.074-.195.045l-1.103-.303c-.559-.153-1.112-.008-1.529.27-.16.107-.327.204-.5.29-.449.222-.851.628-.998 1.189l-.289 1.105c-.029.11-.101.143-.137.146a6.613 6.613 0 01-1.142 0c-.036-.003-.108-.037-.137-.146l-.289-1.105c-.147-.56-.55-.967-.997-1.189a4.502 4.502 0 01-.501-.29c-.417-.278-.97-.423-1.53-.27l-1.102.303c-.11.03-.175-.016-.195-.046a6.492 6.492 0 01-.573-.989c-.014-.031-.022-.11.059-.19l.815-.806c.411-.406.562-.957.53-1.456a4.587 4.587 0 010-.582c.032-.499-.119-1.05-.53-1.456l-.815-.806c-.08-.08-.073-.159-.059-.19a6.44 6.44 0 01.573-.99c.02-.029.086-.075.195-.045l1.103.303c.559.153 1.112.008 1.529-.27.16-.107.327-.204.5-.29.449-.222.851-.628.998-1.189l.289-1.105c.029-.11.101-.143.137-.146zM8 0c-.236 0-.47.01-.701.03-.743.065-1.29.615-1.458 1.261l-.29 1.106c-.017.066-.078.158-.211.224a5.994 5.994 0 00-.668.386c-.123.082-.233.09-.3.071L3.27 2.776c-.644-.177-1.392.02-1.82.63a7.977 7.977 0 00-.704 1.217c-.315.675-.111 1.422.363 1.891l.815.806c.05.048.098.147.088.294a6.084 6.084 0 000 .772c.01.147-.038.246-.088.294l-.815.806c-.474.469-.678 1.216-.363 1.891.2.428.436.835.704 1.218.428.609 1.176.806 1.82.63l1.103-.303c.066-.019.176-.011.299.071.213.143.436.272.668.386.133.066.194.158.212.224l.289 1.106c.169.646.715 1.196 1.458 1.26a8.094 8.094 0 001.402 0c.743-.064 1.29-.614 1.458-1.26l.29-1.106c.017-.066.078-.158.211-.224a5.98 5.98 0 00.668-.386c.123-.082.233-.09.3-.071l1.102.302c.644.177 1.392-.02 1.82-.63.268-.382.505-.789.704-1.217.315-.675.111-1.422-.364-1.891l-.814-.806c-.05-.048-.098-.147-.088-.294a6.1 6.1 0 000-.772c-.01-.147.039-.246.088-.294l.814-.806c.475-.469.679-1.216.364-1.891a7.992 7.992 0 00-.704-1.218c-.428-.609-1.176-.806-1.82-.63l-1.103.303c-.066.019-.176.011-.299-.071a5.991 5.991 0 00-.668-.386c-.133-.066-.194-.158-.212-.224L10.16 1.29C9.99.645 9.444.095 8.701.031A8.094 8.094 0 008 0zm1.5 8a1.5 1.5 0 11-3 0 1.5 1.5 0 013 0zM11 8a3 3 0 11-6 0 3 3 0 016 0z"></path>
+</svg>
+        <span data-content="Settings">Settings</span>
+          <span id="settings-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="Not available" data-view-component="true" class="Counter"></span>
 
 
     
@@ -2206,41 +2242,49 @@
 </summary>
   <details-menu role="menu" data-view-component="true" class="dropdown-menu dropdown-menu-sw">          <ul>
               <li data-menu-item="i0code-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /mbouhid/hackdays3_credit_limit" href="/mbouhid/hackdays3_credit_limit">
+                <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /mbouhid/project_house_rocket" href="/mbouhid/project_house_rocket">
                   Code
 </a>              </li>
               <li data-menu-item="i1issues-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /mbouhid/hackdays3_credit_limit/issues" href="/mbouhid/hackdays3_credit_limit/issues">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_issues repo_labels repo_milestones /mbouhid/project_house_rocket/issues" href="/mbouhid/project_house_rocket/issues">
                   Issues
 </a>              </li>
               <li data-menu-item="i2pull-requests-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /mbouhid/hackdays3_credit_limit/pulls" href="/mbouhid/hackdays3_credit_limit/pulls">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_pulls checks /mbouhid/project_house_rocket/pulls" href="/mbouhid/project_house_rocket/pulls">
                   Pull requests
 </a>              </li>
               <li data-menu-item="i3actions-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /mbouhid/hackdays3_credit_limit/actions" href="/mbouhid/hackdays3_credit_limit/actions">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_actions /mbouhid/project_house_rocket/actions" href="/mbouhid/project_house_rocket/actions">
                   Actions
 </a>              </li>
               <li data-menu-item="i4projects-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /mbouhid/hackdays3_credit_limit/projects" href="/mbouhid/hackdays3_credit_limit/projects">
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_projects new_repo_project repo_project /mbouhid/project_house_rocket/projects" href="/mbouhid/project_house_rocket/projects">
                   Projects
 </a>              </li>
-              <li data-menu-item="i5security-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /mbouhid/hackdays3_credit_limit/security" href="/mbouhid/hackdays3_credit_limit/security">
+              <li data-menu-item="i5wiki-tab" hidden>
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_wiki /mbouhid/project_house_rocket/wiki" href="/mbouhid/project_house_rocket/wiki">
+                  Wiki
+</a>              </li>
+              <li data-menu-item="i6security-tab" hidden>
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="security overview alerts policy token_scanning code_scanning /mbouhid/project_house_rocket/security" href="/mbouhid/project_house_rocket/security">
                   Security
 </a>              </li>
-              <li data-menu-item="i6insights-tab" hidden>
-                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /mbouhid/hackdays3_credit_limit/pulse" href="/mbouhid/hackdays3_credit_limit/pulse">
+              <li data-menu-item="i7insights-tab" hidden>
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /mbouhid/project_house_rocket/pulse" href="/mbouhid/project_house_rocket/pulse">
                   Insights
+</a>              </li>
+              <li data-menu-item="i8settings-tab" hidden>
+                <a role="menuitem" class="js-selected-navigation-item dropdown-item" data-selected-links="code_review_limits codespaces_repository_settings collaborators custom_tabs hooks integration_installations interaction_limits issue_template_editor key_links_settings notifications repo_actions_settings repo_announcements repo_branch_settings repo_keys_settings repo_pages_settings repo_rulesets repo_protected_tags_settings repo_settings reported_content repository_actions_settings_add_new_runner repository_actions_settings_general repository_actions_settings_runners repository_environments role_details secrets secrets_settings_actions secrets_settings_codespaces secrets_settings_dependabot security_analysis /mbouhid/project_house_rocket/settings" href="/mbouhid/project_house_rocket/settings">
+                  Settings
 </a>              </li>
           </ul>
 </details-menu>
 </details></div>
 </nav>
 
-
-
   </div>
+
+  
 
 
 
@@ -2256,7 +2300,7 @@
   <div class="clearfix container-xl px-3 px-md-4 px-lg-5 mt-4">
     
     
-<div data-test-selector="blob-container">
+<div >
   
 
   
@@ -2264,7 +2308,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/mbouhid/hackdays3_credit_limit/blob/85a621fa909863e7d520fcec23e91f3429b2d663/readme.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/mbouhid/project_house_rocket/blob/719609209455accf2e7c259200a28aba68c90396/README.md">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2272,7 +2316,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:572699116,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/hackdays3_credit_limit/blob/main/readme.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="24b3fb33e407cb76ddb79c320085310fe4892d00506840d1df16b963f48b5295">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:503379937,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/project_house_rocket/blob/main/README.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="262eca932e8855a7922ac7bc04ff082e425d30159fc991266293047e8eab0ede">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2303,8 +2347,8 @@
                  data-controls-ref-menu-id="ref-list-branches"
                  autofocus
                  autocomplete="off"
-                 aria-label="Filter branches/tags"
-                 placeholder="Filter branches/tags"
+                 aria-label="Find or create a branch…"
+                 placeholder="Find or create a branch…"
                  type="text"
           >
         </div>
@@ -2314,7 +2358,7 @@
           <button class="SelectMenu-tab" type="button" role="tab">Tags</button>
         </div>
 
-        <div role="tabpanel" id="ref-list-branches" data-filter-placeholder="Filter branches/tags" tabindex="" class="d-flex flex-column flex-auto overflow-auto">
+        <div role="tabpanel" id="ref-list-branches" data-filter-placeholder="Find or create a branch…" tabindex="" class="d-flex flex-column flex-auto overflow-auto">
           <ref-selector
             type="branch"
             data-targets="input-demux.sinks"
@@ -2323,12 +2367,12 @@
               tab-selected:ref-selector#tabSelected
               focus-list:ref-selector#focusFirstListMember
             "
-            query-endpoint="/mbouhid/hackdays3_credit_limit/refs"
-            
-            cache-key="v0:1669841893.257053"
+            query-endpoint="/mbouhid/project_house_rocket/refs"
+            can-create
+            cache-key="v0:1655214657.957488"
             current-committish="bWFpbg=="
             default-branch="bWFpbg=="
-            name-with-owner="a2FyaW5uYXNhbnRvcy9oZWFsdGhfaW5zdXJhbmNlX3Jhbmtpbmc="
+            name-with-owner="bWJvdWhpZC9wcm9qZWN0X2hvdXNlX3JvY2tldA=="
             prefetch-on-mouseover
           >
 
@@ -2337,7 +2381,31 @@
             </template>
 
               <template data-target="ref-selector.noMatchTemplate">
-    <div class="SelectMenu-message">Nothing to show</div>
+    <create-repo-from-selector
+      check-tag-name-exists-path="/mbouhid/project_house_rocket/branches/check_tag_name_exists"
+    >
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/mbouhid/project_house_rocket/branches" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TD0QIs1u-TkwlkA64ajcUy31rDHnHNpxwSvucIq3OIN_4AnDnszo4QBQJZEwiDJdRaFt9FavA6ckz8nNVee9vA" />
+        <input data-target="create-repo-from-selector.refName" type="hidden" name="name" value="{{ refName }}">
+        <input type="hidden" name="branch"  value="main">
+        <input type="hidden" name="path_binary" value="UkVBRE1FLm1k">
+
+        <button
+          class="SelectMenu-item wb-break-word"
+          type="submit"
+          role="menuitem"
+          data-index="{{ index }}"
+          data-action="click:create-repo-from-selector#createBranch"
+          data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU_CREATE_BRANCH&quot;,&quot;repository_id&quot;:503379937,&quot;ref_name&quot;:&quot;{{ refName }}&quot;,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/project_house_rocket/blob/main/README.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="2c2803924e44fe6e91619569952cfeb5312081ec7be1e712c69aa26feac8aabe">
+          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-branch SelectMenu-icon flex-self-baseline">
+    <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"></path>
+</svg>
+          <div>
+            <span class="text-bold">Create branch: {{ refName }}</span>
+            <span class="color-fg-muted">from ‘main’</span>
+            <input type="hidden" value="-sKln2UZKaKZAusP4Glp8m7oDzvPVXUwhLivtj6bGBy_mGXR0gc1F5MkZajYe4FPeqEFZlkPfXpykRiCBWuJmw" data-csrf="true" data-target="create-repo-from-selector.checkTagNameExistsPathCsrf" />
+          </div>
+        </button>
+</form>    </create-repo-from-selector>
 </template>
 
 
@@ -2353,7 +2421,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/mbouhid/hackdays3_credit_limit/blob/{{ urlEncodedRefName }}/readme.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/mbouhid/project_house_rocket/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2363,7 +2431,7 @@
 </template>
 
 
-              <footer class="SelectMenu-footer"><a href="/mbouhid/hackdays3_credit_limit/branches">View all branches</a></footer>
+              <footer class="SelectMenu-footer"><a href="/mbouhid/project_house_rocket/branches">View all branches</a></footer>
           </ref-selector>
 
         </div>
@@ -2377,11 +2445,11 @@
               focus-list:ref-selector#focusFirstListMember
             "
             data-targets="input-demux.sinks"
-            query-endpoint="/mbouhid/hackdays3_credit_limit/refs"
-            cache-key="v0:1669841893.257053"
+            query-endpoint="/mbouhid/project_house_rocket/refs"
+            cache-key="v0:1655214657.957488"
             current-committish="bWFpbg=="
             default-branch="bWFpbg=="
-            name-with-owner="a2FyaW5uYXNhbnRvcy9oZWFsdGhfaW5zdXJhbmNlX3Jhbmtpbmc="
+            name-with-owner="bWJvdWhpZC9wcm9qZWN0X2hvdXNlX3JvY2tldA=="
           >
 
             <template data-target="ref-selector.fetchFailedTemplate">
@@ -2395,7 +2463,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/mbouhid/hackdays3_credit_limit/blob/{{ urlEncodedRefName }}/readme.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/mbouhid/project_house_rocket/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2413,7 +2481,7 @@
 </svg>
               </div>
             </div>
-              <footer class="SelectMenu-footer"><a href="/mbouhid/hackdays3_credit_limit/tags">View all tags</a></footer>
+              <footer class="SelectMenu-footer"><a href="/mbouhid/project_house_rocket/tags">View all tags</a></footer>
           </ref-selector>
         </div>
       </tab-container>
@@ -2456,9 +2524,9 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/mbouhid/hackdays3_credit_limit"><span>hackdays3_credit_limit</span></a></span></span><span class="separator">/</span><strong class="final-path">readme.md</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/mbouhid/project_house_rocket"><span>project_house_rocket</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
   </h2>
-    <a href="/mbouhid/hackdays3_credit_limit/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
+    <a href="/mbouhid/project_house_rocket/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
   <details id="blob-more-options-details" data-view-component="true" class="details-overlay details-reset position-relative">
     <summary role="button" data-view-component="true" class="btn">    <svg aria-label="More options" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
@@ -2467,7 +2535,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:572699116,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/hackdays3_credit_limit/blob/main/readme.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="414a7af89e38cda219d957ed2921f66a8e55f01c9dcbbe1838af17ae08d8ec1d" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/mbouhid/hackdays3_credit_limit/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:503379937,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/project_house_rocket/blob/main/README.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="79e4e50fb57ffb49ba1232ce4ef0fb19ca2a84c47a2e64677657234d4b600a73" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/mbouhid/project_house_rocket/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2479,13 +2547,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="readme.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="README.md" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/mbouhid/hackdays3_credit_limit/blob/85a621fa909863e7d520fcec23e91f3429b2d663/readme.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/mbouhid/project_house_rocket/blob/719609209455accf2e7c259200a28aba68c90396/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2514,10 +2582,10 @@
   
 </div></div>
 
-    <include-fragment src="/mbouhid/hackdays3_credit_limit/spoofed_commit_check/85a621fa909863e7d520fcec23e91f3429b2d663" data-test-selector="spoofed-commit-check"></include-fragment>
+    <include-fragment src="/mbouhid/project_house_rocket/spoofed_commit_check/719609209455accf2e7c259200a28aba68c90396" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/mbouhid/hackdays3_credit_limit/contributors/main/readme.md" class="commit-loader">
+  <include-fragment src="/mbouhid/project_house_rocket/contributors/main/README.md" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2551,8 +2619,8 @@
 
       <details
   data-target="readme-toc.trigger"
-  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:572699116,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/hackdays3_credit_limit/blob/main/readme.md&quot;,&quot;user_id&quot;:41192466}}"
-  data-menu-hydro-click-hmac="99c2162c93d49a310c9d321a6c3b9d6326675162d0aea37e9459d2e784ac6d59"
+  data-menu-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;trigger&quot;,&quot;repository_id&quot;:503379937,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/project_house_rocket/blob/main/README.md&quot;,&quot;user_id&quot;:41192466}}"
+  data-menu-hydro-click-hmac="4ffb5e5d8597129a0aec8a575aa50cf9a18414520c5473f60d3cf95ea79d7769"
   class="dropdown details-reset details-overlay"
 >
   <summary
@@ -2581,24 +2649,18 @@
         </div>
 
       <div class="SelectMenu-list SelectMenu-list--borderless p-2" style="overscroll-behavior: contain;" data-filterable-for="toc-filter-field" data-filterable-type="substring">
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:572699116,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/hackdays3_credit_limit/blob/main/readme.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="96649635819094d183f2182bb736f098befc1b8d24a66cc3b92b7051ca8b1fc3" href="#healt-insurance-ranking-">Healt Insurance Ranking </a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:572699116,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/hackdays3_credit_limit/blob/main/readme.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="96649635819094d183f2182bb736f098befc1b8d24a66cc3b92b7051ca8b1fc3" href="#descrição">Descrição</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:572699116,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/hackdays3_credit_limit/blob/main/readme.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="96649635819094d183f2182bb736f098befc1b8d24a66cc3b92b7051ca8b1fc3" href="#1-problema-do-negócio">1. Problema do negócio</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:572699116,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/hackdays3_credit_limit/blob/main/readme.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="96649635819094d183f2182bb736f098befc1b8d24a66cc3b92b7051ca8b1fc3" href="#2-descrição-dos-dados">2. Descrição dos dados</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:572699116,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/hackdays3_credit_limit/blob/main/readme.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="96649635819094d183f2182bb736f098befc1b8d24a66cc3b92b7051ca8b1fc3" href="#3-premissas-do-negócio">3. Premissas do Negócio</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:572699116,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/hackdays3_credit_limit/blob/main/readme.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="96649635819094d183f2182bb736f098befc1b8d24a66cc3b92b7051ca8b1fc3" href="#4-planejamento-da-solução">4. Planejamento da solução</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 24px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:572699116,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/hackdays3_credit_limit/blob/main/readme.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="96649635819094d183f2182bb736f098befc1b8d24a66cc3b92b7051ca8b1fc3" href="#41-ferramentas-e-técnicas-usadas">4.1. Ferramentas e técnicas usadas:</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:572699116,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/hackdays3_credit_limit/blob/main/readme.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="96649635819094d183f2182bb736f098befc1b8d24a66cc3b92b7051ca8b1fc3" href="#insights-e-análise-das-hipóteses-h-de-negócio">Insights e análise das hipóteses (H) de negócio</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:572699116,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/hackdays3_credit_limit/blob/main/readme.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="96649635819094d183f2182bb736f098befc1b8d24a66cc3b92b7051ca8b1fc3" href="#h1-as-mulheres-são-mais-propensas-a-comprar-seguro-de-carro">H1. As mulheres são mais propensas a comprar seguro de carro.</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:572699116,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/hackdays3_credit_limit/blob/main/readme.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="96649635819094d183f2182bb736f098befc1b8d24a66cc3b92b7051ca8b1fc3" href="#h2-clientes-mais-velhos-são-mais-propensos-a-contratar-um-seguro">H2. Clientes mais velhos são mais propensos a contratar um seguro.</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:572699116,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/hackdays3_credit_limit/blob/main/readme.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="96649635819094d183f2182bb736f098befc1b8d24a66cc3b92b7051ca8b1fc3" href="#h3-o-local-onde-o-cliente-vive-influencia-a-decisão-de-contratar-um-seguro-de-automóvel">H3. O local onde o cliente vive influencia a decisão de contratar um seguro de automóvel.</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:572699116,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/hackdays3_credit_limit/blob/main/readme.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="96649635819094d183f2182bb736f098befc1b8d24a66cc3b92b7051ca8b1fc3" href="#h4-clientes-que-possuem-algum-dano-em-seus-veículos-possuem-maior-probabilidade-de-contratar-um-seguro-de-carro">H4. Clientes que possuem algum dano em seus veículos, possuem maior probabilidade de contratar um seguro de carro.</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:572699116,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/hackdays3_credit_limit/blob/main/readme.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="96649635819094d183f2182bb736f098befc1b8d24a66cc3b92b7051ca8b1fc3" href="#h5-os-clientes-que-possuem-despesas-altas-com-plano-de-saúde-têm-maior-probabilidade-de-comprar-um-novo-produto">H5. Os clientes que possuem despesas altas com plano de saúde têm maior probabilidade de comprar um novo produto.</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:572699116,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/hackdays3_credit_limit/blob/main/readme.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="96649635819094d183f2182bb736f098befc1b8d24a66cc3b92b7051ca8b1fc3" href="#5-machine-learning-models">5. Machine Learning Models</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:572699116,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/hackdays3_credit_limit/blob/main/readme.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="96649635819094d183f2182bb736f098befc1b8d24a66cc3b92b7051ca8b1fc3" href="#6-resultados-do-negócio">6. Resultados do negócio</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:572699116,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/hackdays3_credit_limit/blob/main/readme.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="96649635819094d183f2182bb736f098befc1b8d24a66cc3b92b7051ca8b1fc3" href="#7-conclusões">7. Conclusões</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:572699116,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/hackdays3_credit_limit/blob/main/readme.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="96649635819094d183f2182bb736f098befc1b8d24a66cc3b92b7051ca8b1fc3" href="#8-próximos-passos">8. Próximos passos</a>
-          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:572699116,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/hackdays3_credit_limit/blob/main/readme.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="96649635819094d183f2182bb736f098befc1b8d24a66cc3b92b7051ca8b1fc3" href="#contato">Contato</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:503379937,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/project_house_rocket/blob/main/README.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="fb0a44476abb7439efec3cfa4b1419dae9688c75506e92dfb81322f42366a870" href="#projeto-house-rocket">Projeto House Rocket</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 text-emphasized" style="-webkit-box-orient: vertical; padding-left: 12px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:503379937,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/project_house_rocket/blob/main/README.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="fb0a44476abb7439efec3cfa4b1419dae9688c75506e92dfb81322f42366a870" href="#tabela-de-conteúdos">Tabela de conteúdos</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:503379937,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/project_house_rocket/blob/main/README.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="fb0a44476abb7439efec3cfa4b1419dae9688c75506e92dfb81322f42366a870" href="#sobre">Sobre</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:503379937,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/project_house_rocket/blob/main/README.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="fb0a44476abb7439efec3cfa4b1419dae9688c75506e92dfb81322f42366a870" href="#objetivo">Objetivo</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:503379937,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/project_house_rocket/blob/main/README.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="fb0a44476abb7439efec3cfa4b1419dae9688c75506e92dfb81322f42366a870" href="#premissas">Premissas</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:503379937,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/project_house_rocket/blob/main/README.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="fb0a44476abb7439efec3cfa4b1419dae9688c75506e92dfb81322f42366a870" href="#tecnologias">Tecnologias</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:503379937,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/project_house_rocket/blob/main/README.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="fb0a44476abb7439efec3cfa4b1419dae9688c75506e92dfb81322f42366a870" href="#solução">Solução</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:503379937,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/project_house_rocket/blob/main/README.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="fb0a44476abb7439efec3cfa4b1419dae9688c75506e92dfb81322f42366a870" href="#lições-aprendidas">Lições Aprendidas</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:503379937,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/project_house_rocket/blob/main/README.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="fb0a44476abb7439efec3cfa4b1419dae9688c75506e92dfb81322f42366a870" href="#referências">Referências</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:503379937,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/project_house_rocket/blob/main/README.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="fb0a44476abb7439efec3cfa4b1419dae9688c75506e92dfb81322f42366a870" href="#autor">Autor</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:503379937,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/project_house_rocket/blob/main/README.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="fb0a44476abb7439efec3cfa4b1419dae9688c75506e92dfb81322f42366a870" href="#contribuidores">Contribuidores</a>
+          <a role="menuitem" class="filter-item SelectMenu-item ws-normal wb-break-word line-clamp-2 py-1 " style="-webkit-box-orient: vertical; padding-left: 36px;" data-action="click:readme-toc#blur" data-targets="readme-toc.entries" data-hydro-click="{&quot;event_type&quot;:&quot;repository_toc_menu.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;entry&quot;,&quot;repository_id&quot;:503379937,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/project_house_rocket/blob/main/README.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="fb0a44476abb7439efec3cfa4b1419dae9688c75506e92dfb81322f42366a870" href="#licença">Licença</a>
       </div>
     </div>
   </details-menu>
@@ -2607,49 +2669,49 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      156 lines (124 sloc)
+      99 lines (64 sloc)
       <span class="file-info-divider"></span>
-    10.3 KB
+    3.95 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
         <div class="BtnGroup">
-      <a href="/mbouhid/hackdays3_credit_limit/blob/main/readme.md?plain=1" data-permalink-href="/mbouhid/hackdays3_credit_limit/blob/85a621fa909863e7d520fcec23e91f3429b2d663/readme.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+      <a href="/mbouhid/project_house_rocket/blob/main/README.md?plain=1" data-permalink-href="/mbouhid/project_house_rocket/blob/719609209455accf2e7c259200a28aba68c90396/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
 </svg>
-</a>      <a href="/mbouhid/hackdays3_credit_limit/blob/main/readme.md" data-permalink-href="/mbouhid/hackdays3_credit_limit/blob/85a621fa909863e7d520fcec23e91f3429b2d663/readme.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
+</a>      <a href="/mbouhid/project_house_rocket/blob/main/README.md" data-permalink-href="/mbouhid/project_house_rocket/blob/719609209455accf2e7c259200a28aba68c90396/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
     <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 00.25-.25V6h-2.75A1.75 1.75 0 019 4.25V1.5H3.75zm6.75.062V4.25c0 .138.112.25.25.25h2.688a.252.252 0 00-.011-.013l-2.914-2.914a.272.272 0 00-.013-.011zM2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16h-9.5A1.75 1.75 0 012 14.25V1.75z"></path>
 </svg>
 </a>  </div>
 
 
     <div class="BtnGroup">
-        <a data-permalink-href="/mbouhid/hackdays3_credit_limit/raw/85a621fa909863e7d520fcec23e91f3429b2d663/readme.md" href="/mbouhid/hackdays3_credit_limit/raw/main/readme.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/mbouhid/hackdays3_credit_limit/blame/85a621fa909863e7d520fcec23e91f3429b2d663/readme.md" href="/mbouhid/hackdays3_credit_limit/blame/main/readme.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/mbouhid/project_house_rocket/raw/719609209455accf2e7c259200a28aba68c90396/README.md" href="/mbouhid/project_house_rocket/raw/main/README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/mbouhid/project_house_rocket/blame/719609209455accf2e7c259200a28aba68c90396/README.md" href="/mbouhid/project_house_rocket/blame/main/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
-<div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/mbouhid/hackdays3_credit_limit/edit/main/readme.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="LO17Dae7vhaFB6RnDNwma_KsZEwXt8TGCH5Q-R0MnZCAG_s1QwG4XaAg-qbC7BMQuwR4QDaMvMzTuA7AmmVsrg" autocomplete="off" />
-      <button title="Fork this repository and edit the file" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
+<div class="ml-1" >
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/mbouhid/project_house_rocket/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Nig_jQ15UxH9vJ9wkwShPedUtVztuVuxM97G_q5UtRCR82nLYnnHNng_4H33NSNzZeW-pbyj8SFCnlQbSApB6w" autocomplete="off" />
+      <button title="Edit this file" data-hotkey="e" data-disable-with="" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
 </button></form>
   <details class="details-reset details-overlay select-menu BtnGroup-parent d-inline-block position-relative">
-      <summary data-disable-invalid="" data-disable-with="" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:572699116,&quot;actor_id&quot;:41192466,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" aria-label="Select additional options" data-view-component="true" class="js-blob-dropdown-click select-menu-button btn-sm btn BtnGroup-item float-none px-2">
+      <summary data-disable-invalid="" data-disable-with="" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:503379937,&quot;actor_id&quot;:41192466,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" aria-label="Select additional options" data-view-component="true" class="js-blob-dropdown-click select-menu-button btn-sm btn BtnGroup-item float-none px-2">
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/mbouhid/hackdays3_credit_limit/edit/main/readme.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="NVSmwLptEANVvjFPgb-jZrkOPH9_6Ol-BR7EMEABfAGZoib4XtcWSHCZb45Pj5Yd8KYgc17TkXTe2JoJx2iNPw" autocomplete="off" />
-              <button title="Fork this repository and edit the file" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/mbouhid/project_house_rocket/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="0Bl1Ni7GdP9K-RwSZXRFKEHC-KdfuaRjPlMw_MYI0c53wiNwQcbg2M96Yx8BRcdmw3PzXg6jDvNPE6IZIFYlNQ" autocomplete="off" />
+              <button title="Edit this file" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
-            <a aria-label="Open this file in github.dev" data-test-selector="github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:572699116,&quot;actor_id&quot;:41192466,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" href="https://github.dev/" data-view-component="true" class="SelectMenu-item js-github-dev-shortcut js-blob-dropdown-click width-full d-flex flex-justify-between color-fg-default f5 text-normal">
+            <a aria-label="Open this file in github.dev" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:503379937,&quot;actor_id&quot;:41192466,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" href="https://github.dev/" data-view-component="true" class="SelectMenu-item js-github-dev-shortcut js-blob-dropdown-click width-full d-flex flex-justify-between color-fg-default f5 text-normal">
               <div class="mr-5 no-wrap">Open in github.dev</div>
               <div class="color-fg-muted">.</div>
 </a>
-            <a data-platforms="windows,mac" data-test-selector="github-desktop-link" aria-label="Open this file in GitHub Desktop" href="https://desktop.github.com" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
+            <a data-platforms="windows,mac" aria-label="Open this file in GitHub Desktop" href="https://desktop.github.com" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
               Open in GitHub Desktop
 </a>        </div>
       </div>
@@ -2659,11 +2721,11 @@
 
 
         
-<div data-test-selector="remote-clipboard-copy">
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/mbouhid/hackdays3_credit_limit/raw/85a621fa909863e7d520fcec23e91f3429b2d663/readme.md" data-action="click:remote-clipboard-copy#remoteCopy">
+<div >
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/mbouhid/project_house_rocket/raw/719609209455accf2e7c259200a28aba68c90396/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:572699116,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/hackdays3_credit_limit/blob/main/readme.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="f16b72edfabd62f5b1b13c97c9743bbfe09ee6793691e96cef08c42072006ec5" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:503379937,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/project_house_rocket/blob/main/README.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="60de16c1f3807ee9f6be1b54fd7a0c657f28ee581ae09a992c3b0252ad1df732" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2688,9 +2750,9 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/mbouhid/hackdays3_credit_limit/delete/main/readme.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="sYUCkUxLsuiNZ69qHM5HH4260jMWQXY_pcn0CcKpeJ_UyLZt8Q67RsydFsXbbqOQN08azF1sLxqtZCnIlodYyQ" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/mbouhid/project_house_rocket/delete/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="8sxYFtEysEkPCL62HlNilOKhwK7Vm8jYdXEI5qsqlxSsx_7nJq71exVVhmxsXN9HulAEIpwJ_cDSyqMankth6g" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
-              aria-label="Fork this repository and delete the file" data-disable-with>
+              aria-label="Delete this file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
     <path fill-rule="evenodd" d="M6.5 1.75a.25.25 0 01.25-.25h2.5a.25.25 0 01.25.25V3h-3V1.75zm4.5 0V3h2.25a.75.75 0 010 1.5H2.75a.75.75 0 010-1.5H5V1.75C5 .784 5.784 0 6.75 0h2.5C10.216 0 11 .784 11 1.75zM4.496 6.675a.75.75 0 10-1.492.15l.66 6.6A1.75 1.75 0 005.405 15h5.19c.9 0 1.652-.681 1.741-1.576l.66-6.6a.75.75 0 00-1.492-.149l-.66 6.6a.25.25 0 01-.249.225h-5.19a.25.25 0 01-.249-.225l-.66-6.6z"></path>
 </svg>
@@ -2704,8 +2766,8 @@
           class="js-blob-dropdown-click btn-octicon p-2"
           aria-haspopup="true"
           aria-label="possible actions"
-          data-test-selector="small-screen-more-options"
-          data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:572699116,&quot;actor_id&quot;:41192466,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}"
+          
+          data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:503379937,&quot;actor_id&quot;:41192466,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}"
         >
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
     <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
@@ -2721,15 +2783,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/mbouhid/hackdays3_credit_limit/raw/main/readme.md">
+            <a class="dropdown-item" href="/mbouhid/project_house_rocket/raw/main/README.md">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/mbouhid/hackdays3_credit_limit/raw/main/readme.md" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/mbouhid/project_house_rocket/raw/main/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:572699116,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/hackdays3_credit_limit/blob/main/readme.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="f16b72edfabd62f5b1b13c97c9743bbfe09ee6793691e96cef08c42072006ec5">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:503379937,&quot;originating_url&quot;:&quot;https://github.com/mbouhid/project_house_rocket/blob/main/README.md&quot;,&quot;user_id&quot;:41192466}}" data-hydro-click-hmac="60de16c1f3807ee9f6be1b54fd7a0c657f28ee581ae09a992c3b0252ad1df732">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2752,20 +2814,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/mbouhid/hackdays3_credit_limit/blame/main/readme.md">
+              <a class="dropdown-item" href="/mbouhid/project_house_rocket/blame/main/README.md">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/mbouhid/hackdays3_credit_limit/edit/main/readme.md">Edit file</a>
+                <a class="dropdown-item" href="/mbouhid/project_house_rocket/edit/main/README.md">Edit file</a>
               </li>
                 <li>
-                  <a class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click" data-test-selector="small-screen-github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:572699116,&quot;actor_id&quot;:41192466,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/">Open with github.dev</a>
+                  <a data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:503379937,&quot;actor_id&quot;:41192466,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/" data-view-component="true" class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/mbouhid/hackdays3_credit_limit/delete/main/readme.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/mbouhid/project_house_rocket/delete/main/README.md">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2774,250 +2836,85 @@
 
 
         <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"> <h1 align="center" dir="auto"><a id="user-content-healt-insurance-ranking-" class="anchor" aria-hidden="true" href="#healt-insurance-ranking-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Healt Insurance Ranking </h1>
-
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="/mbouhid/hackdays3_credit_limit/blob/main/health_insurance.png"><img src="/mbouhid/hackdays3_credit_limit/raw/main/health_insurance.png" alt="Getting Started" style="max-width: 100%;"></a></p>
- 
-<p dir="auto">Projeto desenvolvido durante o evento 3º Hackday CDS (<a href="https://comunidadeds.com/" rel="nofollow">Comunidade DS</a>), utilizando alguns algortimos de Machine Learning via Python.</p>
-
-<h1 dir="auto"><a id="user-content-descrição" class="anchor" aria-hidden="true" href="#descrição"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>1. Descrição</h1>
-<p dir="auto">O <em>Billion Bank</em> é um banco digital brasileiro, fundado em 2021. Quando um cliente solicita aumento de limite no cartão de crédito, o banco consulta uma empresa de crédito terceira, que retorna uma recomendação: "negar" ou "conceder". Essa resposta é repassada ao cliente. </p>
-
-<h1 dir="auto"><a id="user-content-2-problema-do-negócio" class="anchor" aria-hidden="true" href="#1-problema-do-negócio"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>2. Problema do negócio</h1>
-<p dir="auto">Existem mais 76 mil clientes, entre novos e antigos, que não responderam a pesquisa. Entretanto, o <em>call center</em>, tem a capacidade de conter apenas alguns clientes. Assim a seguradora deve escolher uma forma de selecionar para quais clientes deve ligar. A equipe de vendas pode fazer um total de 20.000 chamadas, mas pode aumentar para 40.000. Levando em conta o problema apresentado, o cientista de dados (usando <em>machine learning</em>) deve fornecer uma lista ordenada desses novos clientes com base em em sua pontuação de propensão de comprar o novo seguro.</p>
-
-<h2 dir="auto">2.1. Problema do negócio</h2>
-<p dir="auto">Existem mais 76 mil clientes, entre novos e antigos, que não responderam a pesquisa. Entretanto, o <em>call center</em>, tem a capacidade de conter apenas alguns clientes. Assim a seguradora deve escolher uma forma de selecionar para quais clientes deve ligar. A equipe de vendas pode fazer um total de 20.000 chamadas, mas pode aumentar para 40.000. Levando em conta o problema apresentado, o cientista de dados (usando <em>machine learning</em>) deve fornecer uma lista ordenada desses novos clientes com base em em sua pontuação de propensão de comprar o novo seguro.</p>
-
-
-<h2 dir="auto">2.2. Problema do negócio</h2>
-<p dir="auto">Existem mais 76 mil clientes, entre novos e antigos, que não responderam a pesquisa. Entretanto, o <em>call center</em>, tem a capacidade de conter apenas alguns clientes. Assim a seguradora deve escolher uma forma de selecionar para quais clientes deve ligar. A equipe de vendas pode fazer um total de 20.000 chamadas, mas pode aumentar para 40.000. Levando em conta o problema apresentado, o cientista de dados (usando <em>machine learning</em>) deve fornecer uma lista ordenada desses novos clientes com base em em sua pontuação de propensão de comprar o novo seguro.</p>
-
-<h1 dir="auto"><a id="user-content-3-descrição-dos-dados" class="anchor" aria-hidden="true" href="#2-descrição-dos-dados"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>3. Descrição dos dados</h1>
-<p dir="auto">Os dados para este projeto podem ser encontrados <a href="https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction" rel="nofollow">na plataforma Kagle</a>. Abaixo seguem as definições para cada um dos atributos (feature):</p>
-<table>
-<thead>
-<tr>
-<th><strong>Feature</strong></th>
-<th><strong>Definição</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>id</td>
-<td>ID único do cliente</td>
-</tr>
-<tr>
-<td>gender</td>
-<td>Sexo do cliente</td>
-</tr>
-<tr>
-<td>age</td>
-<td>Idade do cliente</td>
-</tr>
-<tr>
-<td>region_code</td>
-<td>Código único da região de cada cliente</td>
-</tr>
-<tr>
-<td>policy_sales_channel</td>
-<td>Código anônimo para o canal de divulgação para o cliente, ou seja. Different Agents, Over Mail, Over Phone, In Person, etc</td>
-</tr>
-<tr>
-<td>driving_license</td>
-<td>0 : cliente não possui, 1 : cliente possui</td>
-</tr>
-<tr>
-<td>vehicle_age</td>
-<td>idade do veículo</td>
-</tr>
-<tr>
-<td>vehicle_damage</td>
-<td>Yes : O cliente teve seu veículo danificado no passado. No: O cliente não teve seu veículo danificado no passado.</td>
-</tr>
-<tr>
-<td>previously_insured</td>
-<td>1 : Cliente já possui Seguro Automóvel, 0 : Cliente não possui Seguro Automóvel</td>
-</tr>
-<tr>
-<td>annual_premium</td>
-<td>The amount customer needs to pay as premium in the year</td>
-</tr>
-<tr>
-<td>vintage</td>
-<td>Número de dias em que o cliente está associado à empresa</td>
-</tr>
-<tr>
-<td>response</td>
-<td>1 : O cliente está interessado no novo seguro, 0 : O cliente não está interessado no novo seguro</td>
-</tr>
-</tbody>
-</table>
-<h1 dir="auto"><a id="user-content-3-premissas-do-negócio" class="anchor" aria-hidden="true" href="#3-premissas-do-negócio"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>3. Premissas do Negócio</h1>
-<p dir="auto">Neste projeto foi necessário classificar os clientes em uma lista, desde o mais provável até o menos provável.</p>
-<h1 dir="auto"><a id="user-content-4-planejamento-da-solução" class="anchor" aria-hidden="true" href="#4-planejamento-da-solução"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>4. Planejamento da solução</h1>
-<p align="justify" dir="auto"> A solução do problema se dará com base no ciclo CRISP, em alguns passos que foram adaptados a metodologia. Aplicamos um modelo de Machine Learning de classificação:</p>
-<ul dir="auto">
-<li><b> Coletando dados </b>: coleta de dados de um banco de dados PostgreSQL ou na plataforma do Kaggle.</li>
-<li><b> Limpeza dos dados </b>: Verificação de tipos de dados e Nan's, renomear colunas, lidar com outliers.</li>
-<li><b> Feature Engineering </b>: Criar novos recursos a partir dos originais, para que possam ser usados no modelo de ML.</li>
-<li><b> Feature Engineering </b>: Criar novos recursos a partir dos originais, para que possam ser usados no modelo de ML.</li>
-<li><b> Exploratory Data Analysis (EDA) </b>: Em tal etapa, os dados foram explorado para obter experiência de negócios, buscar insights úteis e encontrar recursos importantes para o modelo de ML.</li>
-<li><b> Preparação de Dados </b>: Aplicação de Técnicas de Normalização e Reescalonamento nos dados; métodos de Encondagem e Transformação de Variáveis ​​de Resposta.</li>
-<li><b> Seleção de features </b>: Selecionando os melhores features para serem usadas ​​no modelo de ML.</li>
-<li><b> Machine Learning Modeling </b>:
-<ul dir="auto">
-<li>Rodar algoritmos: KNN classifier, Logistic regression, ExtraTrees classifier, e XGBboost classifier.</li>
-<li>Plotar curva de ganho cumulativo e lift, e calcular precison@k/recall@k de cada modelo.</li>
-</ul>
-</li>
-<li><b> Hyperparameter Fine Tunning </b>:
-<ul dir="auto">
-<li>Fazer um ajuste fino de hiperparâmetros em cada modelo, identificando o melhor conjunto de parâmetros para maximizar suas capacidades de aprendizagem.</li>
-<li>Aplicar validação cruzada em cada modelo, reduzindo o viés de seleção (teoria da amostragem), por utilizar várias amostras diferentes dos dados.</li>
-<li>Calcular precison@k/recall@k dos 4 modelos, e selecionar o de melhor performance.</li>
-<li>Submeter esse modelo aos dados de teste, e plotar suas curvas de ganho cumulativo e lift.</li>
-</ul>
-</li>
-<li><b> Convert Model Performance to Business Values </b>:
-<ul dir="auto">
-<li>Responder as questões de negócio.</li>
-<li>Traduzir a performance do modelo em resultados financeiros para a seguradora.</li>
-</ul>
-</li>
-</ul>
-<h2 dir="auto"><a id="user-content-41-ferramentas-e-técnicas-usadas" class="anchor" aria-hidden="true" href="#41-ferramentas-e-técnicas-usadas"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>4.1. Ferramentas e técnicas usadas:</h2>
-<ul dir="auto">
-<li>Python 3.10.8,</li>
-<li>Pandas, Matplotlib, Seaborn e Sklearn</li>
-<li>SQL e PostgreSQL</li>
-<li>VSCode</li>
-<li>Git e Github</li>
-<li>Análise Exploratória de Dados (EDA)</li>
-<li>Técnicas de Seleção de Recursos</li>
-<li>Algoritmos de Classificação (Classificador KNN, Regressão Logística; Classificadores Random Forest, Extra Trees e XGBoost)</li>
-<li>Métodos de validação cruzada, e métricas de desempenho de aprendizado para classificação (precisão em K, recuperação em K, cumulative gain curve, 2 lift curve)</li>
-</ul>
-<h1 dir="auto"><a id="user-content-insights-e-análise-das-hipóteses-h-de-negócio" class="anchor" aria-hidden="true" href="#insights-e-análise-das-hipóteses-h-de-negócio"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Insights e análise das hipóteses (H) de negócio</h1>
-<h3 dir="auto"><a id="user-content-h1-as-mulheres-são-mais-propensas-a-comprar-seguro-de-carro" class="anchor" aria-hidden="true" href="#h1-as-mulheres-são-mais-propensas-a-comprar-seguro-de-carro"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><strong>H1.</strong> As mulheres são mais propensas a comprar seguro de carro.</h3>
-<p dir="auto"><strong>FALSA</strong>.</p>
+    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 align="center" dir="auto"><a id="user-content-projeto-house-rocket" class="anchor" aria-hidden="true" href="#projeto-house-rocket"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Projeto House Rocket</h1>
+<p align="center" dir="auto">Projeto House Rocket utilizando dados do Kaggle e ferramentas Python e Streamlit</p>
+<h1 dir="auto"><a id="user-content-tabela-de-conteúdos" class="anchor" aria-hidden="true" href="#tabela-de-conteúdos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Tabela de conteúdos</h1>
 <p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="/mbouhid/hackdays3_credit_limit/blob/main/hipotese1.png"><img src="/mbouhid/hackdays3_credit_limit/raw/main/hipotese1.png" alt="drawing" width="800" style="max-width: 100%;"></a>
+ <a href="#sobre">Sobre</a> •
+ <a href="#objetivo">Objetivo</a> •
+ <a href="#premissas">Premissas</a> •
+ <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#solução">Solução</a> • 
+ <a href="#Lições_Aprendidas">Lições Aprendidas</a> • 
+ <a href="#proximos_passos">Próximos Passos</a> • 
+ <a href="#referências">Referências</a> • 
+ <a href="#autor">Autor</a> • 
+ <a href="#contribuidores">Contribuidores</a>  • 
+ <a href="#licenc-a">Licença</a> • 
 </p>
-<h3 dir="auto"><a id="user-content-h2-clientes-mais-velhos-são-mais-propensos-a-contratar-um-seguro" class="anchor" aria-hidden="true" href="#h2-clientes-mais-velhos-são-mais-propensos-a-contratar-um-seguro"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><strong>H2.</strong> Clientes mais velhos são mais propensos a contratar um seguro.</h3>
-<p dir="auto"><strong>FALSA</strong>.</p>
-<p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="/mbouhid/hackdays3_credit_limit/blob/main/hipotese2.png"><img src="/mbouhid/hackdays3_credit_limit/raw/main/hipotese2.png" alt="drawing" width="800" style="max-width: 100%;"></a>
-</p>
-<h3 dir="auto"><a id="user-content-h3-o-local-onde-o-cliente-vive-influencia-a-decisão-de-contratar-um-seguro-de-automóvel" class="anchor" aria-hidden="true" href="#h3-o-local-onde-o-cliente-vive-influencia-a-decisão-de-contratar-um-seguro-de-automóvel"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><strong>H3.</strong> O local onde o cliente vive influencia a decisão de contratar um seguro de automóvel.</h3>
-<p dir="auto"><strong>VERDADEIRA</strong>.</p>
-<p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="/mbouhid/hackdays3_credit_limit/blob/main/hipotese3.png"><img src="/mbouhid/hackdays3_credit_limit/raw/main/hipotese3.png" alt="drawing" width="800" style="max-width: 100%;"></a>
-</p>
-<h3 dir="auto"><a id="user-content-h4-clientes-que-possuem-algum-dano-em-seus-veículos-possuem-maior-probabilidade-de-contratar-um-seguro-de-carro" class="anchor" aria-hidden="true" href="#h4-clientes-que-possuem-algum-dano-em-seus-veículos-possuem-maior-probabilidade-de-contratar-um-seguro-de-carro"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><strong>H4.</strong> Clientes que possuem algum dano em seus veículos, possuem maior probabilidade de contratar um seguro de carro.</h3>
-<p dir="auto"><strong>VERDADEIRA</strong>.</p>
-<p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="/mbouhid/hackdays3_credit_limit/blob/main/hipotese4.png"><img src="/mbouhid/hackdays3_credit_limit/raw/main/hipotese4.png" alt="drawing" width="800" style="max-width: 100%;"></a>
-</p>
-<h3 dir="auto"><a id="user-content-h5-os-clientes-que-possuem-despesas-altas-com-plano-de-saúde-têm-maior-probabilidade-de-comprar-um-novo-produto" class="anchor" aria-hidden="true" href="#h5-os-clientes-que-possuem-despesas-altas-com-plano-de-saúde-têm-maior-probabilidade-de-comprar-um-novo-produto"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><strong>H5.</strong> Os clientes que possuem despesas altas com plano de saúde têm maior probabilidade de comprar um novo produto.</h3>
-<p dir="auto"><strong>FALSA</strong>.</p>
-<p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="/mbouhid/hackdays3_credit_limit/blob/main/hipotese5.png"><img src="/mbouhid/hackdays3_credit_limit/raw/main/hipotese5.png" alt="drawing" width="800" style="max-width: 100%;"></a>
-</p>
-<h1 dir="auto"><a id="user-content-5-machine-learning-models" class="anchor" aria-hidden="true" href="#5-machine-learning-models"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>5. Machine Learning Models</h1>
-<p align="justify" dir="auto"> A etapa de machine learning onde a modelagem de ML é realizada. Cinco modelos foram treinados usando validação cruzada:</p>
+<h3 dir="auto"><a id="user-content-sobre" class="anchor" aria-hidden="true" href="#sobre"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Sobre</h3>
+<p dir="auto">O Projeto House Rocket foi um estudo realizado para identificar insights através da análise de dados. Foi utilizado um dataset, do setor imobiliário, disponibilizado na plataforma Kaggle que contém as datas da compra, preço, qtd de quartos, qtd de banheiros, tamanho do imóvel, latidute/longitude, código postal, entre outros dados.</p>
+<p dir="auto">A House Rocket é uma empresa fictícia do setor imobiliário com o objetivo de comprar imóveis com potencial de valorização, revendê-los para obter lucro nas transações.</p>
+<h3 dir="auto"><a id="user-content-objetivo" class="anchor" aria-hidden="true" href="#objetivo"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Objetivo</h3>
+<p dir="auto">O Objetivo na exploração dos dados é analisar e identificar:</p>
+<ol dir="auto">
+<li>Imóveis que estejam abaixo da mediana da região de localização</li>
+<li>Imóveis com boas condições e vista para a água</li>
+<li>Identificar a sazonalidade da data da compra (summer or winter)</li>
+<li>Analisar e confirmar as hipóteses:
 <ul dir="auto">
-<li>K-nearest neighbors</li>
-<li>Logistic regression</li>
-<li>Extra Trees classifier</li>
-<li>Xgboost classifier</li>
-<li>Randon forest</li>
-</ul>
-<table>
-<thead>
-<tr>
-<th align="center"><strong>Model</strong></th>
-<th align="center"><strong>Precision at K</strong></th>
-<th align="center"><strong>Recall at K</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center">KNN Classifier</td>
-<td align="center">0.265 +/- 0.001</td>
-<td align="center">0.872 +/- 0.003</td>
-</tr>
-<tr>
-<td align="center">Logistic regression</td>
-<td align="center">0.274 +/- 0.002</td>
-<td align="center">0.903 +/- 0.005</td>
-</tr>
-<tr>
-<td align="center">Extra Trees classifier</td>
-<td align="center">0.275 +/- 0.0</td>
-<td align="center">0.904 +/- 0.001</td>
-</tr>
-<tr>
-<td align="center">Xgboost classifier</td>
-<td align="center">0.284 +/- 0.001</td>
-<td align="center">0.935 +/- 0.004</td>
-</tr>
-<tr>
-<td align="center">Randon Forest</td>
-<td align="center">0.277 +/- 0.001</td>
-<td align="center">0.911 +/- 0.003</td>
-</tr>
-</tbody>
-</table>
-<ul dir="auto">
-<li>
-<p dir="auto">K é igual a 20.000 ou 40.000, dado nosso problema de negócios.</p>
-</li>
-<li>
-<p dir="auto"><b> O modelo escolhido neste projeto foi o XGBoost </b>: pois o algoritmo mais rápido para treinar e ajustar, embora seja aquele com melhores resultados sem nenhum ajuste.</p>
-</li>
-<li>
-<p dir="auto"><b> Precision at K </b>: Mostra a fração de previsões corretas feitas até K de todas as previsões.</p>
-</li>
-<li>
-<p dir="auto"><b> Recall at K </b>: Mostra a fração de previsões corretas feitas até K de todos os exemplos verdadeiros.</p>
-</li>
-<li>
-<p dir="auto">Duas curvas podem ser plotadas e oservadas:</p>
-<ul dir="auto">
-<li>Cumulative Gains Curve: indica a porcentagem de clientes, ordenada por pontuação de probabilidade, contendo a porcentagem de todos os clientes interessados no novo seguro de veículo.</li>
-<li>Lift Curve: que indica quantas vezes o modelo ML é melhor que o modelo baseline.</li>
+<li>H1: Imóveis que possuem vista para água, são 30% mais caros, na média.</li>
+<li>H2: Imóveis com data de construção menor que 1955, são 50% mais baratos, na média.</li>
+<li>H3: Imóveis sem porão possuem área total 50% maiores do que com porão.</li>
+<li>H4: O crescimento do preço dos imóveis YoY (Year over Year) é de 10%</li>
+<li>H5: Imóveis com 3 banheiros tem um crescimento MoM (Month over Month) de 15%</li>
 </ul>
 </li>
-</ul>
-<h1 dir="auto"><a id="user-content-6-resultados-do-negócio" class="anchor" aria-hidden="true" href="#6-resultados-do-negócio"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>6. Resultados do negócio</h1>
-<p dir="auto">Dentre os 76.622 cliente, um total de 9.342 estão interessados no seguro de veículos. O ticket médio para um seguro de saúde anual da Health Insurance é de $ 31669. As perguntas abaixo foram respondidas seguindo a premissa de que  os clientes interessados no seguro veicular irão assinar o contrato, e que o valor médio do seguro do veículos será o mesmo do seguro saúde.</p>
-<p dir="auto"><b>1) Qual a porcentagem de clientes interessados em seguro veicular, o call center conseguirá contatar fazendo 20 mil ligações?</b></p>
+</ol>
+<h3 dir="auto"><a id="user-content-premissas" class="anchor" aria-hidden="true" href="#premissas"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Premissas</h3>
 <ul dir="auto">
-<li>R: 20.000 chamadas representam 26,24% do nosso banco de dados. Portanto, se a equipe de vendas fizesse todas essas ligações, a seguradora conseguiria entrar em contato com 71,29% dos clientes interessados no seguro de veículos novos. O valor de 0,7129 é o nosso recall em 20.000.</li>
-</ul>
-<p dir="auto"><b>2) Se a capacidade do call center aumentar para 40 mil ligações, qual a porcentagem de clientes interessados em adquirir um seguro veicular o call center conseguirá contatar?</b></p>
+<li>Na limpeza dos dados:
 <ul dir="auto">
-<li>R: 40.000 chamadas representam 52,48% do nosso banco de dados. Nesse caso, se a equipe de vendas fizesse todas essas ligações, a seguradora conseguiria entrar em contato com 99,48% dos clientes interessados no seguro de veículos novos. O valor de 0,9948 é o nosso recall em 40.000.</li>
+<li>Retirados os ID´s duplicados</li>
+<li>Retirado o ID com número de quartos igual a 33 (possível erro de digitação)</li>
 </ul>
-<h1 dir="auto"><a id="user-content-7-conclusões" class="anchor" aria-hidden="true" href="#7-conclusões"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>7. Conclusões</h1>
+</li>
+<li>Imóveis em bom estado foram considerados como condition igual 3 ou 4</li>
+<li>O crescimento anual foi calculado com o valor médio dos imóveis por ano, pois a base de dados só possuia o período de 13 meses.</li>
+</ul>
+<h3 dir="auto"><a id="user-content-tecnologias" class="anchor" aria-hidden="true" href="#tecnologias"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Tecnologias</h3>
+<p dir="auto">As seguintes ferramentas foram usadas na construção do projeto:</p>
 <ul dir="auto">
-<li>Com base nos resultados comerciais, a seguradora passa a ter uma vantagem competitiva sobre seus concorrentes, reduzindo o custo de aquisição de clientes e aumentando sua receita.</li>
-<li>A equipe de vendas pode focar sua atenção nos primeiros 20.000 ou 40.000 clientes da lista e, no futuro, focar nos primeiros K clientes da nova lista.</li>
-<li>Insights foram revelados e com os resultados obtidos é possível simular perfis de clientes, funcionalidade de grande valia para a empresa.</li>
+<li><a href="https://www.python.org/" rel="nofollow">Python</a></li>
+<li><a href="https://streamlit.io/" rel="nofollow">Streamlit</a></li>
+<li><a href="https://pandas.pydata.org/" rel="nofollow">Pandas</a></li>
 </ul>
-<h1 dir="auto"><a id="user-content-8-próximos-passos" class="anchor" aria-hidden="true" href="#8-próximos-passos"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>8. Próximos passos</h1>
+<h3 dir="auto"><a id="user-content-solução" class="anchor" aria-hidden="true" href="#solução"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Solução</h3>
 <ul dir="auto">
-<li>Realizar uma análise de componentes principais (PCA) nos conjuntos de dados.</li>
-<li>Testar o Boruta</li>
-<li>Usar outros algoritmos de classificação</li>
-<li>Fazer o deploy do modelo</li>
+<li><a href="https://github.com/mbouhid/project_house_rocket/blob/main/hc_app_final_Streamlit.pdf">HC_App_final_Streamlit.pdf</a></li>
+<li><a href="https://github.com/mbouhid/project_house_rocket/blob/main/hc_app_final_Streamlit_Menu.pdf">HC_App_final_Streamlit_Menu.pdf</a></li>
 </ul>
-<hr>
-<h1 dir="auto"><a id="user-content-contato" class="anchor" aria-hidden="true" href="#contato"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Contato</h1>
-<p dir="auto"><a href="/mbouhid/hackdays3_credit_limit/blob/main/www.linkedin.com/in/karinafss"><img src="https://camo.githubusercontent.com/10fcc3fc61bbf146537c4f6f5a59a340bd9d030a583f74cce7123bb1faba08b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d3041363643323f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a></p>
-<p dir="auto"><a href="/mbouhid/hackdays3_credit_limit/blob/main/mbouhid0@gmail.com">e-mail</a></p>
-<p dir="auto"><a href="https://mbouhid.github.io/project_portfolio/" rel="nofollow">Portifólio de projetos</a></p>
+<h3 dir="auto"><a id="user-content-lições-aprendidas" class="anchor" aria-hidden="true" href="#lições-aprendidas"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Lições Aprendidas</h3>
+<ul dir="auto">
+<li>A base de dados tem que estar limpa</li>
+<li>As afirmações devem ser bem claras para que a solução da análise confirme ou não as hipóteses</li>
+<li>Nem toda afimação/hipótese tem solução ou será respondida</li>
+<li>Identificar claramente as premissas para alinhamento das expectativas</li>
+<li>Importante saber exatamente o que o cliente precisa.</li>
+<li>Identificar as necessidades mesmo que não esteja no pedido do cliente.</li>
+</ul>
+<h3 dir="auto"><a id="user-content-referências" class="anchor" aria-hidden="true" href="#referências"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Referências</h3>
+<p dir="auto"><a href="https://www.kaggle.com/" rel="nofollow">Kaggle</a></p>
+<p dir="auto"><a href="https://github.com/">Github</a></p>
+<p dir="auto"><a href="https://www.comunidadedatascience.com/" rel="nofollow">Comunidade Data Science</a></p>
+<p dir="auto"><a href="https://medium.com/@meigarom/os-5-projetos-de-data-science-que-far%C3%A1-o-recrutador-olhar-para-voc%C3%AA-c32c67c17cc9" rel="nofollow">Blog Seja Um Data Scientist</a></p>
+<h3 dir="auto"><a id="user-content-autor" class="anchor" aria-hidden="true" href="#autor"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Autor</h3>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://avatars.githubusercontent.com/u/41192466?v=4"><img src="https://avatars.githubusercontent.com/u/41192466?v=4" width="100px;" alt="" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://www.linkedin.com/in/marciobouhid/" rel="nofollow"><img src="https://camo.githubusercontent.com/a1e8117f2d02f8b8c7dd7f781cf7fdb5df1f06e11cf13b9c95aae2f2749aae70/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d617263696f426f756869642d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6d617263696f626f756869642f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-MarcioBouhid-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/marciobouhid/" style="max-width: 100%;"></a></p>
+<h3 dir="auto"><a id="user-content-contribuidores" class="anchor" aria-hidden="true" href="#contribuidores"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Contribuidores</h3>
+<p dir="auto">O projeto não teve contribuidores oficiais. A Comunidade Data Science foi consultada em determinados momentos.</p>
+<h3 dir="auto"><a id="user-content-licença" class="anchor" aria-hidden="true" href="#licença"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Licença</h3>
+<p dir="auto">GNU General Public License v3.0</p>
 </article>
   </div>
 
@@ -3039,6 +2936,37 @@
 
 
 
+    <div class="pt-3" >
+      <details class="details-reset details-overlay details-overlay-dark " >
+                <summary data-view-component="true" class="btn-link">    Give feedback
+</summary>
+
+  <details-dialog
+    class="Box d-flex flex-column anim-fade-in fast Box--overlay overflow-visible"
+      aria-label="Provide feedback"
+      src="/mbouhid/project_house_rocket/repos/code_nav_survey"
+      
+    >
+    <div class="Box-header">
+      <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+      </button>
+        <h1 class="Box-title" >Provide feedback</h1>
+    </div>
+      <div class="Box-body overflow-auto">
+                  <include-fragment>
+            <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
+  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg>
+          </include-fragment>
+
+      </div>
+  </details-dialog>
+</details>
+    </div>
 </div>
 
   </div>
@@ -3065,7 +2993,7 @@
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
 </svg>
 </a>        <span>
-        &copy; 2022 GitHub, Inc.
+        &copy; 2023 GitHub, Inc.
         </span>
       </div>
     </div>
@@ -3074,7 +3002,7 @@
       <h3 class='sr-only' id='sr-footer-heading'>Footer navigation</h3>
       <ul class="list-style-none d-flex flex-wrap col-12 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0" aria-labelledby='sr-footer-heading'>
           <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}">Terms</a></li>
-          <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}">Privacy</a></li>
+          <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/site-policy/privacy-policies/github-privacy-statement" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}">Privacy</a></li>
           <li class="mr-3 mr-lg-0"><a data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security">Security</a></li>
           <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}">Status</a></li>
           <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to help, text:Docs" href="https://docs.github.com">Docs</a></li>
@@ -3161,9 +3089,9 @@
     </style>
 
 
-      </div>
+    </div>
 
-      <div id="js-global-screen-reader-notice" class="sr-only" aria-live="polite" ></div>
+    <div id="js-global-screen-reader-notice" class="sr-only" aria-live="polite" ></div>
   </body>
 </html>
 
