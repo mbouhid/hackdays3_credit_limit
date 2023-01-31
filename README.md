@@ -1,14 +1,16 @@
-<h1 align="center">Projeto Template</h1>
+<h1 align="center">Credit Limit</h1>
 
-<p align="center">Descrição do projeto</p>
+<p align="center">Projeto desenvolvido durante o evento <em>3º Hackday CDS</em> (Comunidade Data Science), utilizando algoritmos de Machine Learning via Python.</p>
+
+![Getting Started](img/credit_img_readme.jpg)
 
 Tabela de conteúdos
 =================
 <p align="center">
- <a href="#sobre">Sobre</a> •
- <a href="#objetivo">Objetivo</a> •
- <a href="#premissas">Premissas</a> •
- <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#About">About</a> •
+ <a href="#objectives">Objectives</a> •
+ <a href="#assumptions">Assumptions</a> •
+ <a href="#tools">Tools</a> • 
  <a href="#solução">Solução</a> • 
  <a href="#utilizacao">Como instalar</a> • 
  <a href="#Lições_Aprendidas">Lições Aprendidas</a> • 
@@ -19,12 +21,14 @@ Tabela de conteúdos
  <a href="#licenc-a">Licença</a> • 
 </p>
 
-### Sobre
+## About 
 
 Texto explicativo do projeto com contexto do negócio, dados sobre o negócio/setor, imagens, origem dos dados, referências, e tudo que for necessário para passar o conhecimento necessário. 
 
 
-### Objetivo
+
+
+## Objetivo
 O Objetivo na exploração dos dados é analisar e identificar:
 
  1. Imóveis que estejam abaixo da mediana da região de localização
@@ -38,7 +42,7 @@ O Objetivo na exploração dos dados é analisar e identificar:
     - H5: Imóveis com 3 banheiros tem um crescimento MoM (Month over Month) de 15%
 
 
-### Premissas
+## Assumptions
 
 - Na limpeza dos dados:
    - Retirados os ID´s duplicados
@@ -46,8 +50,8 @@ O Objetivo na exploração dos dados é analisar e identificar:
 - Imóveis em bom estado foram considerados como condition igual 3 ou 4
 - O crescimento anual foi calculado com o valor médio dos imóveis por ano, pois a base de dados só possuia o período de 13 meses.
 
-
-### Tecnologias
+# Planning
+## Tools
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
@@ -55,16 +59,16 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Streamlit](https://streamlit.io/)
 - [Pandas](https://pandas.pydata.org/)
 
-### Solução
+## Solução
 
 - [HC_App_final_Streamlit.pdf](https://github.com/mbouhid/project_house_rocket/blob/main/hc_app_final_Streamlit.pdf)
 - [HC_App_final_Streamlit_Menu.pdf](https://github.com/mbouhid/project_house_rocket/blob/main/hc_app_final_Streamlit_Menu.pdf)
 
-### Como Instalar
+## Como Instalar
 
 Passo a passo de como rodar o modelo.
 
-### Lições Aprendidas
+## Lições Aprendidas
 
 - A base de dados tem que estar limpa
 - As afirmações devem ser bem claras para que a solução da análise confirme ou não as hipóteses
@@ -74,7 +78,7 @@ Passo a passo de como rodar o modelo.
 - Identificar as necessidades mesmo que não esteja no pedido do cliente.
 
 
-### Referências
+## Referências
 
 [Kaggle](https://www.kaggle.com/)
 
@@ -85,19 +89,19 @@ Passo a passo de como rodar o modelo.
 [Blog Seja Um Data Scientist](https://medium.com/@meigarom/os-5-projetos-de-data-science-que-far%C3%A1-o-recrutador-olhar-para-voc%C3%AA-c32c67c17cc9)
 
 
-### Autor
+## Autor
 
 <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/41192466?v=4" width="100px;" alt=""/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-MarcioBouhid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marciobouhid/)](https://www.linkedin.com/in/marciobouhid/) 
 
 
-### Contribuidores
+## Contribuidores
 
 O projeto não teve contribuidores oficiais. A Comunidade Data Science foi consultada em determinados momentos.
 
 
-### Licença
+## Licença
 
 GNU General Public License v3.0
 
