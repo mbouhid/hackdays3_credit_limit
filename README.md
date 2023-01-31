@@ -1,14 +1,14 @@
 <h1 align="center">Credit Limit</h1>
 
-<p align="center">Projeto desenvolvido durante o evento <em>3º Hackday CDS</em> (Comunidade Data Science), utilizando algoritmos de Machine Learning via Python.</p>
+<p align="center">Projeto desenvolvido durante o evento <em>3º Hackday CDS</em> (Comunidade Data Science), utilizando algoritmos de Machine Learning via Python, para solucionar um problema de classificação de clientes.</p>
 
 ![Getting Started](img/credit_img_readme.jpg)
 
-Tabela de conteúdos
+Table of Content
 =================
 <p align="center">
- <a href="#About">About</a> •
- <a href="#objectives">Objectives</a> •
+ <a href="#about">About</a> •
+ <a href="#goals">Goals</a> •
  <a href="#assumptions">Assumptions</a> •
  <a href="#tools">Tools</a> • 
  <a href="#solução">Solução</a> • 
@@ -28,7 +28,7 @@ Texto explicativo do projeto com contexto do negócio, dados sobre o negócio/se
 
 
 
-## Objetivo
+## Goals
 O Objetivo na exploração dos dados é analisar e identificar:
 
  1. Imóveis que estejam abaixo da mediana da região de localização
