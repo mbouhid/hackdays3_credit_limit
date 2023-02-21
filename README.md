@@ -4,6 +4,8 @@
 
 Objetivos: Simular ambiente de negócio real | Trabalho em equipe | Networking | Aceleração do conhecimento
 </br>
+
+
 ![Getting Started](img/credit_img_readme.jpg)
 
 Table of Content
