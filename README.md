@@ -100,6 +100,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## Team
 
+Marcio Bouhid(https://www.linkedin.com/in/marciobouhid/)
+
 Danillo Barros(https://www.linkedin.com/in/danillo-cordeiro/)
 
 Almir Lopes(https://www.linkedin.com/in/almirmartinslopes/)
