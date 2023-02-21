@@ -64,60 +64,26 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 # Execution
 
-## Steps
+<p align="justify"> A solução do problema se dará com base no ciclo CRISP, em alguns passos que foram adaptados a metodologia. Aplicamos um modelo de Machine Learning de classificação:</p>
 
-### Step 01. Data Description:
-Coletar dados em um banco de dados na AWS Cloud.
-</br>Compreender o significado de cada atributo dos interessados.
-</br>Renomear colunas, compreender dimensões e tipos dos dados.
-</br>Identificar e tratar dados nulos.
-</br>Analisar atributos através de estatística descritiva.
-</br>Separar 20% dos dados para teste (aleatoriamente, mas estratificados pela variável resposta).
-
-### Step 02. Feature Engineering:
-Criar mindmap de hipóteses de negócio.
-</br>Realizar a feature engeneering, criando as features necessárias para validação das hipóteses.
-
-### Step 03. Data Filtering:
-Filtrar registros e atributos de acordo com restrições de negócio.
-
-### Step 04. Exploratory Data Analysis:
-Realizar uma análise univariada com uso do SweetViz, avaliando detalhes de cada atributo.
-</br>Realizar uma análise bivariada, validando as hipóteses criadas e gerando insights de negócio.
-</br>Criar tabela de resultados das hipóteses, e relevância estimada dos atributos para o aprendizado dos modelos.
-
-### Step 05. Data Preparation:
-Padronizar atributos numéricos com distribuição normal.
-</br>Reescalar atributos numéricos com distribuição não normal.
-</br>Codificar atributos categóricos em atributos numéricos.
-</br>Aplicas as transformações acima aos dados de teste.
-
-### Step 06. Feature Selection:
-Separar dados de treino e validação.
-</br>Rodar algoritmo para obter sugestão de atributos relevantes.
-</br>Analisar o resultado em conjunto com os atributos relevantes estimado na EDA.
-</br>Selecionar apenas os melhores atributos para treinar os modelos de machine learning.
-
-### Step 07. Machine Learning Modelling:
-Rodar algoritmos: KNN classifier, Logistic regression, ExtraTrees classifier, e XGBboost classifier.
-</br>Plotar curva de ganho cumulativo e lift, e calcular precison@k/recall@k de cada modelo.
-</br>Criar tabela de performance comparando precison@k/recall@k de cada modelo.
-
-### Step 08. Hyperparameter Fine Tunning:
-Fazer um ajuste fino de hiperparâmetros em cada modelo, identificando o melhor conjunto de parâmetros para maximizar suas capacidades de aprendizagem.
-</br>Aplicar validação cruzada em cada modelo, reduzindo o viés de seleção (teoria da amostragem), por utilizar várias amostras diferentes dos dados.
-</br>Selecionar os 4 modelos com melhor conjunto de hiperparâmetros, e avaliar sua capacidade de aprendizagem.
-</br>Plotar curvas de ganho cumulativo e lift, comparando os 4 modelos.
-</br>Calcular precison@k/recall@k dos 4 modelos, e selecionar o de melhor performance.
-</br>Submeter esse modelo aos dados de teste, e plotar suas curvas de ganho cumulativo e lift.
-</br>Comparar precison@k/recall@k em treino vs. teste, avaliando a capacidade de generalização do modelo (aprendizado com dados inéditos).
-
-### Step 09. Convert Model Performance to Business Values:
-Responder as questões de negócio do gestor ao call center.
-</br>Comparar resultados da lista aleatória com a lista ordenada por propensão de compra.
-</br>Traduzir a performance do modelo em resultados financeiros para a Insurance All.
-
-
+- <b> Coletando dados </b>: coleta de dados de um dataset, disponibilizado pela organização do evento, na plataforma Kaggle.
+- <b> Limpeza dos dados </b>: Verificação de tipos de dados e Nan's, renomear colunas, lidar com outliers.
+- <b> Feature Engineering </b>: Criar novos recursos/features a partir dos originais, para que possam ser usados no modelo de ML.
+-  <b> Exploratory Data Analysis (EDA) </b>: Em tal etapa, os dados foram explorados para obter experiência de negócios, buscar insights úteis e encontrar recursos importantes para o modelo de ML. 
+- <b> Preparação de Dados </b>: Aplicação de Técnicas de Normalização e Reescalonamento nos dados; métodos de Encondagem e Transformação de Variáveis de Resposta.
+- <b> Seleção de features </b>: Selecionando os melhores features para serem usadas no modelo de ML.
+- <b> Machine Learning Modeling </b>: 
+    - Rodar algoritmos: Naive Bayes (MixedNB), Random Forest (RandomForestClassifier), XGBoost (XGBClassifier).
+    - Plotar curva de ganho cumulativo e lift, e calcular o F1 Score de cada modelo.
+- <b> Hyperparameter Fine Tunning </b>: 
+    - Fazer um ajuste fino de hiperparâmetros em cada modelo, identificando o melhor conjunto de parâmetros para maximizar suas capacidades de aprendizagem.
+    -  Aplicar validação cruzada em cada modelo, reduzindo o viés de seleção (teoria da amostragem), por utilizar várias amostras diferentes dos dados.
+    - Calcular F1 Score dos 3 modelos, e selecionar o de melhor performance.
+    - Submeter esse modelo aos dados de teste, e plotar suas curvas de ganho cumulativo e lift.
+- <b> Performance do modelo </b>: 
+    - XGBoost - Média ponderada com F1 Score (dados validação): 0.86
+    - XGBoost - Média ponderada com F1 Score (dados teste): 0.86
+    - O modelo apresenta boa capacidade de generalização (classificar dados inéditos)
 
 
 ## Solution
