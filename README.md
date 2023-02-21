@@ -1,9 +1,9 @@
 <h1 align="center">Credit Limit</h1>
 
 <p align="center">Projeto desenvolvido durante o evento <em>3º Hackday CDS</em> (Comunidade Data Science), utilizando algoritmos de Machine Learning via Python, para solucionar um problema de classificação de clientes. </p>
-</br>
-Objetivos: Simular ambiente de negócio real | Trabalho em equipe | Networking | Aceleração do conhecimento
 
+Objetivos: Simular ambiente de negócio real | Trabalho em equipe | Networking | Aceleração do conhecimento
+</br>
 ![Getting Started](img/credit_img_readme.jpg)
 
 Table of Content
