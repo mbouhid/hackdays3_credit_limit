@@ -67,8 +67,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## How to use
 
++ Executar o comando em ambiente local: <em>git clone https://github.com/mbouhid/hackdays3_credit_limit.git</em>
 + Instalar as bibliotecas que estão no arquivo <em>requirements.txt</em>
-+ 
++ Executar o arquivo <em>notebooks/baseline_kaggle_hackdays3.ipynb</em>
 
 
 
