@@ -18,8 +18,8 @@ Table of Content
  <a href="#next-steps">Next Steps</a> • 
  <a href="#referencias">Referências</a> • 
  <a href="#autor">Autor</a> • 
- <a href="#contribuidores">Contribuidores</a>  • 
- <a href="#licenc-a">Licença</a> • 
+ <a href="#team">Team</a>  • 
+ <a href="#license">License</a> • 
 </p>
 
 # About 
@@ -52,10 +52,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Python](https://www.python.org/)
 - [Pandas](https://pandas.pydata.org/)
-- [Jupyter Notebook]
-- [Github]
-- [SKLearn]
-- [XGBoost]
+- [Jupyter Notebook](https://jupyter.org/)
+- [Github](https://github.com/)
+- [SKLearn](https://scikit-learn.org/stable/)
+- [XGBoost](https://xgboost.readthedocs.io/en/stable/)
 
 ## Solution
 
@@ -73,25 +73,22 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 
-## Lições Aprendidas
+## Lessons Learned
 
-- A base de dados tem que estar limpa
-- As afirmações devem ser bem claras para que a solução da análise confirme ou não as hipóteses
-- Nem toda afimação/hipótese tem solução ou será respondida
-- Identificar claramente as premissas para alinhamento das expectativas
-- Importante saber exatamente o que o cliente precisa.
-- Identificar as necessidades mesmo que não esteja no pedido do cliente.
+- 
+
+
+## Next Steps
+
++
+
 
 
 ## Referências
 
-[Kaggle](https://www.kaggle.com/)
-
-[Github](https://github.com/)
+[Kaggle](https://www.kaggle.com/competitions/cdshackdays3)
 
 [Comunidade Data Science](https://www.comunidadedatascience.com/)
-
-[Blog Seja Um Data Scientist](https://medium.com/@meigarom/os-5-projetos-de-data-science-que-far%C3%A1-o-recrutador-olhar-para-voc%C3%AA-c32c67c17cc9)
 
 
 ## Autor
@@ -101,12 +98,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 [![Linkedin Badge](https://img.shields.io/badge/-MarcioBouhid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marciobouhid/)](https://www.linkedin.com/in/marciobouhid/) 
 
 
-## Contribuidores
+## Team
 
-O projeto não teve contribuidores oficiais. A Comunidade Data Science foi consultada em determinados momentos.
+Danillo Barros(https://www.linkedin.com/in/danillo-cordeiro/)
+Almir Lopes(https://www.linkedin.com/in/almirmartinslopes/)
 
 
-## Licença
+## License
 
 GNU General Public License v3.0
 
