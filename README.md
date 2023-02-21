@@ -63,17 +63,17 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Step 01. Data Description:
 
-Coletar dados em um banco de dados na AWS Cloud.
-Compreender o significado de cada atributo dos interessados.
-Renomear colunas, compreender dimensões e tipos dos dados.
-Identificar e tratar dados nulos.
-Analisar atributos através de estatística descritiva.
-Separar 20% dos dados para teste (aleatoriamente, mas estratificados pela variável resposta).
+</br>Coletar dados em um banco de dados na AWS Cloud.
+</br>Compreender o significado de cada atributo dos interessados.
+</br>Renomear colunas, compreender dimensões e tipos dos dados.
+</br>Identificar e tratar dados nulos.
+</br>Analisar atributos através de estatística descritiva.
+</br>Separar 20% dos dados para teste (aleatoriamente, mas estratificados pela variável resposta).
 
 ### Step 02. Feature Engineering:
 
-Criar mindmap de hipóteses de negócio.
-Realizar a feature engeneering, criando as features necessárias para validação das hipóteses.
+</br>Criar mindmap de hipóteses de negócio.
+</br>Realizar a feature engeneering, criando as features necessárias para validação das hipóteses.
 
 ### Step 03. Data Filtering:
 
@@ -81,16 +81,16 @@ Filtrar registros e atributos de acordo com restrições de negócio.
 
 ### Step 04. Exploratory Data Analysis:
 
-Realizar uma análise univariada com uso do SweetViz, avaliando detalhes de cada atributo.
-Realizar uma análise bivariada, validando as hipóteses criadas e gerando insights de negócio.
-Criar tabela de resultados das hipóteses, e relevância estimada dos atributos para o aprendizado dos modelos.
+</br>Realizar uma análise univariada com uso do SweetViz, avaliando detalhes de cada atributo.
+</br>Realizar uma análise bivariada, validando as hipóteses criadas e gerando insights de negócio.
+</br>Criar tabela de resultados das hipóteses, e relevância estimada dos atributos para o aprendizado dos modelos.
 
 ### Step 05. Data Preparation:
 
-Padronizar atributos numéricos com distribuição normal.</br>
-Reescalar atributos numéricos com distribuição não normal.
-Codificar atributos categóricos em atributos numéricos.
-Aplicas as transformações acima aos dados de teste.
+</br>Padronizar atributos numéricos com distribuição normal.
+</br>Reescalar atributos numéricos com distribuição não normal.
+</br>Codificar atributos categóricos em atributos numéricos.
+</br>Aplicas as transformações acima aos dados de teste.
 
 ### Step 06. Feature Selection:
 
