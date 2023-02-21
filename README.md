@@ -12,8 +12,8 @@ Table of Content
  <a href="#goals">Goals</a> •
  <a href="#assumptions">Assumptions</a> •
  <a href="#tools">Tools</a> • 
- <a href="#solução">Solução</a> • 
- <a href="#utilizacao">Como instalar</a> • 
+ <a href="#solution">Solution</a> • 
+ <a href="#how-to-use">How to use</a> • 
  <a href="#lessons-learned">Lessons Learned</a> • 
  <a href="#next-steps">Next Steps</a> • 
  <a href="#referencias">Referências</a> • 
@@ -43,29 +43,35 @@ Tratando-se de um serviço, a cada solicitação de aumento de limite feita por 
 
 ## Assumptions
 
-- Na limpeza dos dados:
-   - Retirados os ID´s duplicados
-   - Retirado o ID com número de quartos igual a 33 (possível erro de digitação)  
-- Imóveis em bom estado foram considerados como condition igual 3 ou 4
-- O crescimento anual foi calculado com o valor médio dos imóveis por ano, pois a base de dados só possuia o período de 13 meses.
-
+- Registros com idade superiores a 18 anos
+- 
 
 ## Tools
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Python](https://www.python.org/)
-- [Streamlit](https://streamlit.io/)
 - [Pandas](https://pandas.pydata.org/)
+- [Jupyter Notebook]
+- [Github]
+- [SKLearn]
+- [XGBoost]
 
-## Solução
+## Solution
 
-- [HC_App_final_Streamlit.pdf](https://github.com/mbouhid/project_house_rocket/blob/main/hc_app_final_Streamlit.pdf)
-- [HC_App_final_Streamlit_Menu.pdf](https://github.com/mbouhid/project_house_rocket/blob/main/hc_app_final_Streamlit_Menu.pdf)
+- Criação de novas features
+- A métrica utilizada foi a F1Score (média harmónica entre a precision(tentativas) e a recall(disponibilidade))
 
-## Como Instalar
 
-Passo a passo de como rodar o modelo.
+
+
+## How to use
+
++ Instalar as bibliotecas que estão no arquivo <em>requirements.txt</em>
++ 
+
+
+
 
 ## Lições Aprendidas
 
