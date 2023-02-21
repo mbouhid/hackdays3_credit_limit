@@ -12,11 +12,12 @@ Table of Content
  <a href="#goals">Goals</a> •
  <a href="#assumptions">Assumptions</a> •
  <a href="#tools">Tools</a> • 
+ <a href="#steps">Steps</a> • 
  <a href="#solution">Solution</a> • 
  <a href="#how-to-use">How to use</a> • 
  <a href="#lessons-learned">Lessons Learned</a> • 
  <a href="#next-steps">Next Steps</a> • 
- <a href="#referencias">Referências</a> • 
+ <a href="#references">References</a> • 
  <a href="#autor">Autor</a> • 
  <a href="#team">Team</a>  • 
  <a href="#license">License</a> • 
@@ -62,7 +63,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## Steps
 
 ### Step 01. Data Description:
-</br>Coletar dados em um banco de dados na AWS Cloud.
+Coletar dados em um banco de dados na AWS Cloud.
 </br>Compreender o significado de cada atributo dos interessados.
 </br>Renomear colunas, compreender dimensões e tipos dos dados.
 </br>Identificar e tratar dados nulos.
@@ -70,36 +71,36 @@ As seguintes ferramentas foram usadas na construção do projeto:
 </br>Separar 20% dos dados para teste (aleatoriamente, mas estratificados pela variável resposta).
 
 ### Step 02. Feature Engineering:
-</br>Criar mindmap de hipóteses de negócio.
+Criar mindmap de hipóteses de negócio.
 </br>Realizar a feature engeneering, criando as features necessárias para validação das hipóteses.
 
 ### Step 03. Data Filtering:
-</br>Filtrar registros e atributos de acordo com restrições de negócio.
+Filtrar registros e atributos de acordo com restrições de negócio.
 
 ### Step 04. Exploratory Data Analysis:
-</br>Realizar uma análise univariada com uso do SweetViz, avaliando detalhes de cada atributo.
+Realizar uma análise univariada com uso do SweetViz, avaliando detalhes de cada atributo.
 </br>Realizar uma análise bivariada, validando as hipóteses criadas e gerando insights de negócio.
 </br>Criar tabela de resultados das hipóteses, e relevância estimada dos atributos para o aprendizado dos modelos.
 
 ### Step 05. Data Preparation:
-</br>Padronizar atributos numéricos com distribuição normal.
+Padronizar atributos numéricos com distribuição normal.
 </br>Reescalar atributos numéricos com distribuição não normal.
 </br>Codificar atributos categóricos em atributos numéricos.
 </br>Aplicas as transformações acima aos dados de teste.
 
 ### Step 06. Feature Selection:
-</br>Separar dados de treino e validação.
+Separar dados de treino e validação.
 </br>Rodar algoritmo para obter sugestão de atributos relevantes.
 </br>Analisar o resultado em conjunto com os atributos relevantes estimado na EDA.
 </br>Selecionar apenas os melhores atributos para treinar os modelos de machine learning.
 
 ### Step 07. Machine Learning Modelling:
-</br>Rodar algoritmos: KNN classifier, Logistic regression, ExtraTrees classifier, e XGBboost classifier.
+Rodar algoritmos: KNN classifier, Logistic regression, ExtraTrees classifier, e XGBboost classifier.
 </br>Plotar curva de ganho cumulativo e lift, e calcular precison@k/recall@k de cada modelo.
 </br>Criar tabela de performance comparando precison@k/recall@k de cada modelo.
 
 ### Step 08. Hyperparameter Fine Tunning:
-</br>Fazer um ajuste fino de hiperparâmetros em cada modelo, identificando o melhor conjunto de parâmetros para maximizar suas capacidades de aprendizagem.
+Fazer um ajuste fino de hiperparâmetros em cada modelo, identificando o melhor conjunto de parâmetros para maximizar suas capacidades de aprendizagem.
 </br>Aplicar validação cruzada em cada modelo, reduzindo o viés de seleção (teoria da amostragem), por utilizar várias amostras diferentes dos dados.
 </br>Selecionar os 4 modelos com melhor conjunto de hiperparâmetros, e avaliar sua capacidade de aprendizagem.
 </br>Plotar curvas de ganho cumulativo e lift, comparando os 4 modelos.
@@ -108,16 +109,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 </br>Comparar precison@k/recall@k em treino vs. teste, avaliando a capacidade de generalização do modelo (aprendizado com dados inéditos).
 
 ### Step 09. Convert Model Performance to Business Values:
-</br>Responder as questões de negócio do gestor ao call center.
+Responder as questões de negócio do gestor ao call center.
 </br>Comparar resultados da lista aleatória com a lista ordenada por propensão de compra.
 </br>Traduzir a performance do modelo em resultados financeiros para a Insurance All.
 
-### Step 10. Deploy Modelo to Production:
-</br>Criar as classes para publicação em produção.
-</br>Testar as classes localmente.
-</br>Publicar modelo no Heroku Cloud.
-</br>Criar App Script em Google Sheets para consultar o modelo em produção.
-</br>Implementar botão que consulta a propensão de compra dos clientes no Google Sheets, e testar a solução.
+
 
 
 ## Solution
@@ -139,7 +135,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## Lessons Learned
 
-- 
+- Em projetos com curto espaço de tempo, importante estruturar e executar um modelo o mais rápido possível, pois o resultado servirá de baseline para os próximos.
+- Planejar, definir e designar bem as atividades de cada participante.
+- Focar em discussões para a criação de novas features.
+- Conhecer sobre o negócio e entender as features do dataset original.
 
 
 ## Next Steps
@@ -148,7 +147,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 
-## Referências
+## References
 
 [Kaggle](https://www.kaggle.com/competitions/cdshackdays3)
 
