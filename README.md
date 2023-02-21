@@ -35,8 +35,11 @@ Tratando-se de um serviço, a cada solicitação de aumento de limite feita por 
 # Goals
 
 1 - Desburocratizar o processo, permitindo que o cliente possa solicitar um novo limite uma vez por semana, tendo uma resposta instantânea.
+
 2 - Desativar as consultas de recomendação de aumento de limites feitas hoje com a empresa terceira, que são demoradas e custosas.
+
 3 - O modelo deverá avaliar a solicitaçaõ de aumento de limite de cartão de crédito.
+
 4 - O modelo irá informar se o banco deverá conceder ou não o aumento do limite de crédito solicitado pelo cliente.
 
 # Planning
