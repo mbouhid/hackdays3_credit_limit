@@ -2,8 +2,8 @@
 
 <p align="center">Projeto desenvolvido durante o evento <em>3º Hackday CDS</em> (Comunidade Data Science), utilizando algoritmos de Machine Learning via Python, para solucionar um problema de classificação de clientes. </p>
 
-Objetivos: Simular ambiente de negócio real | Trabalho em equipe | Networking | Aceleração do conhecimento
-</br>
+<p align="center">Objetivos: Simular ambiente de negócio real | Trabalho em equipe | Networking | Aceleração do conhecimento </p>
+
 
 
 ![Getting Started](img/credit_img_readme.jpg)
