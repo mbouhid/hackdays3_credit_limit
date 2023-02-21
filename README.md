@@ -62,7 +62,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## Steps
 
 ### Step 01. Data Description:
-
 </br>Coletar dados em um banco de dados na AWS Cloud.
 </br>Compreender o significado de cada atributo dos interessados.
 </br>Renomear colunas, compreender dimensões e tipos dos dados.
@@ -71,59 +70,54 @@ As seguintes ferramentas foram usadas na construção do projeto:
 </br>Separar 20% dos dados para teste (aleatoriamente, mas estratificados pela variável resposta).
 
 ### Step 02. Feature Engineering:
-
 </br>Criar mindmap de hipóteses de negócio.
 </br>Realizar a feature engeneering, criando as features necessárias para validação das hipóteses.
 
 ### Step 03. Data Filtering:
-
-Filtrar registros e atributos de acordo com restrições de negócio.
+</br>Filtrar registros e atributos de acordo com restrições de negócio.
 
 ### Step 04. Exploratory Data Analysis:
-
 </br>Realizar uma análise univariada com uso do SweetViz, avaliando detalhes de cada atributo.
 </br>Realizar uma análise bivariada, validando as hipóteses criadas e gerando insights de negócio.
 </br>Criar tabela de resultados das hipóteses, e relevância estimada dos atributos para o aprendizado dos modelos.
 
 ### Step 05. Data Preparation:
-
 </br>Padronizar atributos numéricos com distribuição normal.
 </br>Reescalar atributos numéricos com distribuição não normal.
 </br>Codificar atributos categóricos em atributos numéricos.
 </br>Aplicas as transformações acima aos dados de teste.
 
 ### Step 06. Feature Selection:
+</br>Separar dados de treino e validação.
+</br>Rodar algoritmo para obter sugestão de atributos relevantes.
+</br>Analisar o resultado em conjunto com os atributos relevantes estimado na EDA.
+</br>Selecionar apenas os melhores atributos para treinar os modelos de machine learning.
 
-Separar dados de treino e validação.
-Rodar algoritmo para obter sugestão de atributos relevantes.
-Analisar o resultado em conjunto com os atributos relevantes estimado na EDA.
-Selecionar apenas os melhores atributos para treinar os modelos de machine learning.
-Step 07. Machine Learning Modelling:
+### Step 07. Machine Learning Modelling:
+</br>Rodar algoritmos: KNN classifier, Logistic regression, ExtraTrees classifier, e XGBboost classifier.
+</br>Plotar curva de ganho cumulativo e lift, e calcular precison@k/recall@k de cada modelo.
+</br>Criar tabela de performance comparando precison@k/recall@k de cada modelo.
 
-Rodar algoritmos: KNN classifier, Logistic regression, ExtraTrees classifier, e XGBboost classifier.
-Plotar curva de ganho cumulativo e lift, e calcular precison@k/recall@k de cada modelo.
-Criar tabela de performance comparando precison@k/recall@k de cada modelo.
-Step 08. Hyperparameter Fine Tunning:
+### Step 08. Hyperparameter Fine Tunning:
+</br>Fazer um ajuste fino de hiperparâmetros em cada modelo, identificando o melhor conjunto de parâmetros para maximizar suas capacidades de aprendizagem.
+</br>Aplicar validação cruzada em cada modelo, reduzindo o viés de seleção (teoria da amostragem), por utilizar várias amostras diferentes dos dados.
+</br>Selecionar os 4 modelos com melhor conjunto de hiperparâmetros, e avaliar sua capacidade de aprendizagem.
+</br>Plotar curvas de ganho cumulativo e lift, comparando os 4 modelos.
+</br>Calcular precison@k/recall@k dos 4 modelos, e selecionar o de melhor performance.
+</br>Submeter esse modelo aos dados de teste, e plotar suas curvas de ganho cumulativo e lift.
+</br>Comparar precison@k/recall@k em treino vs. teste, avaliando a capacidade de generalização do modelo (aprendizado com dados inéditos).
 
-Fazer um ajuste fino de hiperparâmetros em cada modelo, identificando o melhor conjunto de parâmetros para maximizar suas capacidades de aprendizagem.
-Aplicar validação cruzada em cada modelo, reduzindo o viés de seleção (teoria da amostragem), por utilizar várias amostras diferentes dos dados.
-Selecionar os 4 modelos com melhor conjunto de hiperparâmetros, e avaliar sua capacidade de aprendizagem.
-Plotar curvas de ganho cumulativo e lift, comparando os 4 modelos.
-Calcular precison@k/recall@k dos 4 modelos, e selecionar o de melhor performance.
-Submeter esse modelo aos dados de teste, e plotar suas curvas de ganho cumulativo e lift.
-Comparar precison@k/recall@k em treino vs. teste, avaliando a capacidade de generalização do modelo (aprendizado com dados inéditos).
-Step 09. Convert Model Performance to Business Values:
+### Step 09. Convert Model Performance to Business Values:
+</br>Responder as questões de negócio do gestor ao call center.
+</br>Comparar resultados da lista aleatória com a lista ordenada por propensão de compra.
+</br>Traduzir a performance do modelo em resultados financeiros para a Insurance All.
 
-Responder as questões de negócio do gestor ao call center.
-Comparar resultados da lista aleatória com a lista ordenada por propensão de compra.
-Traduzir a performance do modelo em resultados financeiros para a Insurance All.
-Step 10. Deploy Modelo to Production:
-
-Criar as classes para publicação em produção.
-Testar as classes localmente.
-Publicar modelo no Heroku Cloud.
-Criar App Script em Google Sheets para consultar o modelo em produção.
-Implementar botão que consulta a propensão de compra dos clientes no Google Sheets, e testar a solução.
+### Step 10. Deploy Modelo to Production:
+</br>Criar as classes para publicação em produção.
+</br>Testar as classes localmente.
+</br>Publicar modelo no Heroku Cloud.
+</br>Criar App Script em Google Sheets para consultar o modelo em produção.
+</br>Implementar botão que consulta a propensão de compra dos clientes no Google Sheets, e testar a solução.
 
 
 ## Solution
