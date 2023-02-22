@@ -6,7 +6,7 @@
 
 
 
-![Getting Started](img/credit_img_readme.jpg)
+![Getting Started](img/banner_hd3.png)
 
 Table of Content
 =================
